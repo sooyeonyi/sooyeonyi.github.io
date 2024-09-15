@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sooyeon Yi"
+title: "Welcome to Sooyeon's website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,9 @@ redirect_from:
 Education
 ------
 Ph.D. Environmental Planning, University of California, Berkeely, 2022
+
 M.S. Hydrology and Water Resources Management, University of California, Davis, 2016
+
 B.S. Hydrology and Water Resources Management, University of California, Davis, 2013
 
 Research Interests/ Specializations
