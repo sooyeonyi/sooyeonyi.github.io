@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Sooyeon Yi, Ph.D."
 permalink: /cv/
 author_profile: true
 redirect_from:
