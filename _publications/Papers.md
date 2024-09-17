@@ -2,12 +2,11 @@
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: publications
-TEST
 ---
 
 {% include base_path %}
 
-### Publications
+### Publications TEST
 ### Journal paper (Published)
 * **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
 * **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. Water Resources Research, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
