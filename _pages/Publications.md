@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+{% include base_path %}
+
 ### Publications
 ### Journal paper (Published)
 * **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
