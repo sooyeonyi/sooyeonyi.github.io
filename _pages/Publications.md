@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "Sooyeon Yi, Ph.D."
+title: "Publications"
 permalink: /Publications/
+collection: Publications
 author_profile: true
 redirect_from:
   - /resume
