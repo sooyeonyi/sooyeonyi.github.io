@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Planning, University of California, Berkeley (2022)
+* M.S. in Hydrology and Water Resrouces Management, University of California, Davis (2016)
+* B.S. in Hydrology and Water Resrouces Management, University of California, Davis (2013)  
 
 Work experience
 ======
