@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Sooyeon Yi, Ph.D."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,27 +17,24 @@ Education
 
 Research experience
 ======
-* Postdoctoral Researcher (Mar 2024 - )
+* Postdoctoral Researcher (2024 - )
   * University of California, Berkeley
-  * Supervisor: Prof. Ted Grantham
+    * Supervisor: Prof. Ted Grantham
 
-* Researcher (Aug 2022 - Feb 2024)
+* Researcher (2022-2023)
   * University of California, Berkeley
-  * Supervisor: Prof. G. Mathias Kondolf
+    * Supervisor: Prof. G. Mathias Kondolf
 
-* Graduate Student (
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Reseracher (2017 - 2022)
+  * University of California, Berkeley
+    * Supervisor: Prof. G. Mathias Kondolf
+  * Lawrence Berkeley National Laboratory
+    * Supervisor: Dr. Larry Dale
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* My research focuses on understanding the complex interactions between water, the environment, and human systems, with an emphasis on water resources management, climate change, riparian ecosystems, and risk assessment related to droughts and floods. I strive to develop innovative solutions—whether through physics-based models or data-driven approaches—that promote the sustainable management of water resources while enhancing the resilience of ecosystems and human systems.
+
 
 Publications
 ======
