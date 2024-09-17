@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sooyeon Yi / Water"
+title                    : "Dr. Sooyeon Yi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "https://sooyeonyi.github.io/"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Sooyeon Yi"
+  name             : "Sooyeon Yi, Ph.D."
   Title            : "Postdoctoral Researcher"  
   bio              : "Postdoctoral Researcher"
   location         : "Berkeley, CA, USA"
