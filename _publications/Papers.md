@@ -4,7 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: publications
 ---
 
-{% include base_path %}
 
 ### Publications TEST
 ### Journal paper (Published)
