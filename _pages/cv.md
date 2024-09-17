@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 * Ph.D in Environmental Planning, University of California, Berkeley (2022)
 * M.S. in Hydrology and Water Resrouces Management, University of California, Davis (2016)
 * B.S. in Hydrology and Water Resrouces Management, University of California, Davis (2013)  
 
-# Research experience
+### Research experience
 * Postdoctoral Researcher (2024 - ) at University of California, Berkeley
 * Researcher (2022-2023) at University of California, Berkeley
 * Graduate Student Reseracher (2017 - 2022) at University of California, Berkeley & Lawrence Berkeley National Laboratory
   
-# Research Interests
+#### Research Interests
 * My research focuses on understanding the complex interactions between water, the environment, and human systems, with an emphasis on water resources management, climate change, riparian ecosystems, and risk assessment related to droughts and floods. I strive to develop innovative solutions—whether through physics-based models or data-driven approaches—that promote the sustainable management of water resources while enhancing the resilience of ecosystems and human systems.
 
 
@@ -42,7 +42,6 @@ redirect_from:
 *	^ Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. Journal of Hydroinformatics.
   
 ## Journal paper (Preparation)
-======
 *	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. Journal of Environmental Sciences. 
 *	**Yi, S.**, Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. Journal of Hydrology
 *	**Yi, S.**, Solis, S., Bombardelli, F., Puente, C. Water resources management in the Apurímac River Basin: One-bucket model approach. Water.
@@ -51,11 +50,9 @@ redirect_from:
 *	Lee, E., Ji, J., **Yi, S.**, Lee, S., Lee, J., Yi, J. Enhancing flood control and water management efficiency. Scientific Report.
   
 # Technical Report 
-======
 *	Lisa, T., Kilduff, P., Solis, S. **Yi, S.**, Modeling Tool to Assess and Mitigate the Effect of Small Hydropower on Stream Fishes in Changing California Climate, California Energy Commission, Online Report. June 2015.
 *	Radke, J., Biging, G., Roberts, K., Schmidt-Poolman, M., Foster, H., Roe, E., Ju, Y., Lindbergh, S., Beach, T., Maier, L., He, Y., Ashenfarb, M., Norton, P., Wray, M., Alruheili, A., **Yi, S.**, Rau, R., Collins, J., Radke, D., Coufal, M., Marx, S., Gohar, A., Moanga, D., Ulyashin, V., Dalal, A., 2018. Assessing Extreme Weather-Related Vulnerability and Identifying Resilience Options for California’s Interdependent Transportation Fuel Sector (Technical Report No. CCCA4- CEC-2018– 012). State of California Energy Commission.
 
 # Book Chapters
-======
 * Lund, J., Hui, R., Escriva, A., Porse, E., Adams, L., Connaughton, J., Kasuri, L., Lord, B., Siegfried, L., Thayer, R., Solis, S., **Yi, S.** Reservoir operation design. Chapter 124, Handbook of Applied Hydrology, February 2015. 
 * **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019. 
