@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Test"
+    url: /Test/
+
   #- title: "Blog Posts"
   #  url: /year-archive/
 
