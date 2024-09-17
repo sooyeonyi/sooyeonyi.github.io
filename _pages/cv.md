@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
+{% include base_path %}
 
 Education
 ======
@@ -17,20 +17,15 @@ Education
 
 Research experience
 ======
-* Mar 2024: Postdoctoral Researcher
+* Postdoctoral Researcher (Mar 2024 - )
   * University of California, Berkeley
-  * Duties includes:
-  * (a) Explore how the Central Valley’s water management system performs under a wide range of operational alterations and climate futures;
-  * (b) Assess how operational alternatives enable or hinder our ability to sustain environmental flows in Central Valley rivers, assessed in relation to natural, unpaired flows and to functional flow targets;
-  * (c) Show that changes in the volumes and priorities of environmental flow requirements have substantial effects on other water management objectives, including water deliveries from the State Water Project and Central Valley Project and to Delta salinity dynamics.  
   * Supervisor: Prof. Ted Grantham
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Researcher (Aug 2022 - Feb 2024)
+  * University of California, Berkeley
+  * Supervisor: Prof. G. Mathias Kondolf
 
-* Summer 2015: Research Assistant
+* Graduate Student (
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
