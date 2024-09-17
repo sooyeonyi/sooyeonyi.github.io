@@ -29,14 +29,14 @@ Research Interests
 Publications
 ======
 Journal paper (Published)
-* Yi, S. (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929] (https://doi.org/10.1111/wej.12929) 
-* Yi, S., Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. Water Resources Research, 60, e2022WR032779. https://doi.org/10.1029/2022WR032779 
+* Yi, S. (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
+* Yi, S., Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. Water Resources Research, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
 * Lee, E., Ji, J., Lee, S., Yoon, J., Yi, S., & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. Water, 15(20), 3555. https://doi.org/10.3390/w15203555
-* Lee, S., Choi, Y., Ji, J., Lee, E., Yi, S., & Yi, J. (2023). Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea. Water, 15(11), 1979. https://doi.org/10.3390/w15111979 
-* Choi, Y., Ji, J., Lee, E., Lee, S., Yi, S., & Yi, J. (2023). Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. Water Resources Management. https://doi.org/10.1007/s11269-023-03478-0 
-* Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., Yi, S., & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. Water, 14(20), 3242. https://doi.org/10.3390/w14203242 
-* Yi, S., Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In Water Resources Management. https://doi.org/10.1007/s11269-022-03326-7 
-* Yang, L., Bai, X., Zheng Khanna, N., Yi, S., Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. Desalination and Water Treatment, 118, 12–25. https://doi.org/10.5004/dwt.2018.22332 
+* Lee, S., Choi, Y., Ji, J., Lee, E., Yi, S., & Yi, J. (2023). Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea. Water, 15(11), 1979. [https://doi.org/10.3390/w15111979](https://doi.org/10.3390/w15111979) 
+* Choi, Y., Ji, J., Lee, E., Lee, S., Yi, S., & Yi, J. (2023). Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. Water Resources Management. [https://doi.org/10.1007/s11269-023-03478-0](https://doi.org/10.1007/s11269-023-03478-0) 
+* Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., Yi, S., & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. Water, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
+* Yi, S., Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In Water Resources Management. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
+* Yang, L., Bai, X., Zheng Khanna, N., Yi, S., Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. Desalination and Water Treatment, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
 Journal paper (under second ^^ and first ^ review)
 *	^^ Yi, S., Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques . Applied Water Science.
