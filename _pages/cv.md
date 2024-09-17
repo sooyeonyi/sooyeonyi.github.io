@@ -15,12 +15,15 @@ Education
 * M.S. in Hydrology and Water Resrouces Management, University of California, Davis (2016)
 * B.S. in Hydrology and Water Resrouces Management, University of California, Davis (2013)  
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar 2024: Postdoctoral Researcher
+  * University of California, Berkeley
+  * Duties includes:
+  * (a) Explore how the Central Valley’s water management system performs under a wide range of operational alterations and climate futures;
+  * (b) Assess how operational alternatives enable or hinder our ability to sustain environmental flows in Central Valley rivers, assessed in relation to natural, unpaired flows and to functional flow targets;
+  * (c) Show that changes in the volumes and priorities of environmental flow requirements have substantial effects on other water management objectives, including water deliveries from the State Water Project and Central Valley Project and to Delta salinity dynamics.  
+  * Supervisor: Prof. Ted Grantham
 
 * Fall 2015: Research Assistant
   * Github University
