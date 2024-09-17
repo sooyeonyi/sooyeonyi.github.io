@@ -1,8 +1,6 @@
 ---
-
 title: "Publications"
 collection: Publications
-
 ---
 
 {% include base_path %}
