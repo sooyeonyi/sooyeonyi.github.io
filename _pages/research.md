@@ -37,7 +37,7 @@ author_profile: true
 ### Under first round of review by the Applied Water Science
 *	Develops models to predict streamflow, using regionalization techniques for streamflow prediction in ungauged basins (PUB).
 *	Predict streamflow in ungauged basins and to assess the impact of various meteorologic and topographic factors on these predictions. 
-*Develop more reliable and efficient streamflow prediction models using deep learning algorithms (Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)) and applied Leave-One-Out Cross-Validation (LOOCV).
+* Develop more reliable and efficient streamflow prediction models using deep learning algorithms (Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)) and applied Leave-One-Out Cross-Validation (LOOCV).
 
 ### Development of reservoir operation model determining the pre-release strategy for the flood events
 ### Under first round of review by the Journal of Hydroinformatics
