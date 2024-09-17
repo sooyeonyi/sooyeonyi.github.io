@@ -17,9 +17,9 @@ Education
 
 Research experience
 ======
-* Postdoctoral Researcher (2024 - ) | University of California, Berkeley
-* Researcher (2022-2023) | University of California, Berkeley
-* Graduate Student Reseracher (2017 - 2022) | University of California, Berkeley & Lawrence Berkeley National Laboratory
+* Postdoctoral Researcher (2024 - ) at University of California, Berkeley
+* Researcher (2022-2023) at University of California, Berkeley
+* Graduate Student Reseracher (2017 - 2022) at University of California, Berkeley & Lawrence Berkeley National Laboratory
   
 Research Interests
 ======
