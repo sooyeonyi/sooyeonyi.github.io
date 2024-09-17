@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /Publications/
-collection: Publications
+title: "Sooyeon Yi, Ph.D."
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 {% include base_path %}
 
 ### Publications
