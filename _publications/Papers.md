@@ -1,11 +1,8 @@
 ---
-layout: archive
+
 title: "Publications"
-permalink: /Publications/
 collection: Publications
-author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
