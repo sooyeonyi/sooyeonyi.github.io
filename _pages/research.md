@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Postdoctoral Researcher (2024 - )
+## Postdoctoral Researcher (2024 - ) - _UC Berkeley_
 ### Collaboratory for Equity in Water Allocations [COEQWAL](https://live-coeqwal-ca.pantheon.berkeley.edu/)
 *	Explore how the Central Valley’s water management system performs under a wide range of operational alterations and climate futures. 
 *	Assess how operational alternatives enable or hinder our ability to sustain environmental flows in Central Valley rivers, assessed in relation to natural, unpaired flows and to functional flow targets. 
@@ -32,8 +32,36 @@ author_profile: true
 *	Utilize kriging and cokriging in geostatistical methods, and employ RF, SVR, LSTM, and GRU in machine learning models.
 *	Identify significant independent variables affecting low (Q80, Q90, Q95) medium (Q30, Q40, Q50, Q60, Q70), and high flow (Q10, Q20) conditions. 
 
-## Researcher (2022 - 2023)
+## Researcher (Aug 2023 – Feb 2024) - _UC Berkeley_
 ### Improving predictions of streamflow in ungauged basins: Application of deep learning algorithms
+#### Under first round of review by the Applied Water Science
 *	Develops models to predict streamflow, using regionalization techniques for streamflow prediction in ungauged basins (PUB).
 *	Predict streamflow in ungauged basins and to assess the impact of various meteorologic and topographic factors on these predictions. 
 *Develop more reliable and efficient streamflow prediction models using deep learning algorithms (Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)) and applied Leave-One-Out Cross-Validation (LOOCV).
+
+### Development of reservoir operation model determining the pre-release strategy for the flood events
+#### Under first round of review by the Journal of Hydroinformatics
+*	Develop a reservoir operation model that helps reduce peak releases during the flood season.
+*	Generate reference tables and graphs for determining target reservoir elevation after pre-release.
+*	Propose practical applications for real-time decision-making.
+
+### Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics
+#### Under first round of review by the International Journal of Water Resources Development
+*	Develop flow duration curves using geostatistical and machine learning models for comparison.
+*	Utilize kriging and cokriging in geostatistical methods, and employ RF, SVR, LSTM, and GRU in machine learning models.
+*	Identify significant independent variables affecting low (Q80, Q90, Q95) medium (Q30, Q40, Q50, Q60, Q70), and high flow (Q10, Q20) conditions. 
+
+## Researcher (Feb – Aug 2023) - _UC Berkeley_
+### Reservoir-based Flood Forecasting and Warning using Machine Learning and Deep Learning Techniques
+#### Under second round of review by the Applied Water Science
+*	Develops models to predict streamflow, using regionalization techniques for streamflow prediction in ungauged basins (PUB).
+*	Predict streamflow in ungauged basins and to assess the impact of various meteorologic and topographic factors on these predictions. 
+*	Develop more reliable and efficient streamflow prediction models using deep learning algorithms (Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)) and applied Leave-One-Out Cross-Validation (LOOCV).
+
+### Assessing the Impacts of Hydropower Reservoir's Shift to Multi-Purpose Use on Downstream River Regimes
+### [https://doi.org/10.3390/w15203555](https://doi.org/10.3390/w15203555)
+*	Examine the impact of the reservoir's transition since April 2020 from exclusively generating hydropower to serving multiple purposes.
+*	Evaluate how the reservoir's shift from solely hydropower to multiple uses affects the downstream reservoir through water budget analysis.
+*	Investigate the various effects of transitioning to multi-purpose reservoir, such as water quality, downstream flow patterns, and hydropower generation.
+
+
