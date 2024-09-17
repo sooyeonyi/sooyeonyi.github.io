@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Sooyeon Yi, Ph.D."
-permalink: /Tets/
+title: "Research"
+permalink: /Research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
+
+### Collaboratory for Equity in Water Allocations (COEQWAL)[https://live-coeqwal-ca.pantheon.berkeley.edu/]
