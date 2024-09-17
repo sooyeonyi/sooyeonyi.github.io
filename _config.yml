@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sooyeon Yi / Water"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Sooyeon Yi"
   Title            : "Postdoctoral Researcher"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Berkeley, CA, USA"
   employer         : "UC Berkeley"
   uri              : # URL
