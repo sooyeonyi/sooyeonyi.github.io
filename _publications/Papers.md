@@ -1,6 +1,7 @@
 ---
-title: "Publications"
-collection: Publications
+title: "Papers"
+collection: publications
+prelink: /publication/Papers
 ---
 
 {% include base_path %}
