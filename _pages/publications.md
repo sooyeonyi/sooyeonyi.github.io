@@ -38,4 +38,23 @@ author_profile: true
 
 ### Book Chapters
 * Lund, J., Hui, R., Escriva, A., Porse, E., Adams, L., Connaughton, J., Kasuri, L., Lord, B., Siegfried, L., Thayer, R., Solis, S., **Yi, S.** Reservoir operation design. Chapter 124, Handbook of Applied Hydrology, February 2015. 
-* **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019. 
+* **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019.
+
+### Conferences
+* Yi, S., Solis, S., Bombardelli, F., Puente, C. Evaluating Current and Future Water Supply and Demands in the Apurimac River Basin in Peru, A Sensitivity Analysis of a Hydrologic and Water Planning Model. (Poster) American Geographical Union (AGU), 12/15-19/2014, San Francisco, California. 
+* Yi, S., Thompson, L., Kilduff, P., Solis, S. WEAPhish & Master_WEAPhish Middle- Ware Link to WEAP. (Talk) Workshop for University of California Davis Fish Population & Habitat Conceptual Model, 3/25/2015, Sacramento, California. The recorded workshop can be found at: 
+http://calfish.ucdavis.edu/Research_Projects/?uid=11&ds=557 
+* Yi, S., Solis, S., Bombardelli, F., Puente, C. Current and Prospective Water Management in the Apurimac River Basin, in Peru. An Assessment of Available Water and Supply. (Talk) Environmental & Water Resources Institute (EWRI), 5/17-21/2015, Austin, Texas.
+* Yi, S., Solis, S., Bombardelli, F., Puente, C. Current and Prospective Water Management in the Apurimac River Basin, in Peru. An Assessment of Available Water and Supply. (Poster), Chile California Conference 2015: “Envisioning the future, Creating it together”, 10/17/2015, Davis, California.  
+* Yi, S., Solis, S., Bombardelli, F., Puente, C. Hydrological WEAP Modeling of the Upper Basin of the Apurimac River Basin, in Peru. (Poster) AGU, 12/14-18/2015, San Francisco, California. 
+* Yi, S., Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (Poster) AGU, 12/11-15/2017, New Orleans, Louisiana.
+* Yi, S., Ju, Y., He., Y. Projecting future inland flooding susceptibility due to climate change in California using machine learning. (Talk) American Association of Geographers (AAG), 04/10-14/2018, New Orleans, Louisiana.
+* Yi, S., Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (Poster) Interagency Ecological Program, 3/6-8/2018, Folsom, California.
+* Yi, S., Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (Poster) California Water and Environmental Modeling Forum, 4/2-4/2018, Folsom, California.
+* Yi, S., Yi, J. Hydrological modeling of the Los Angeles River Basin. (Poster) AGU, 12/9-13/2019, San Francisco, California. 
+* Lee, E., Ji, J., Yi, S., Lee, S., Yoon, J., Lee, C., Yi., J. Enhancing flood control and water management efficiency: A case study in South Korea. (Talk) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
+* Lee, S., Ji, J., Lee, E., Yoon, J., Lee, C., Yi, S., Yi., J. Deep learning for unpredicted flow forecasting in South Korea. (Talk) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
+* Yoon, J., Lee, E., Ji, J., Lee, S., Lee, C., Yi, S., Yi., J. Contribution of multipurpose utilization of Hwacheon Reservoir to water supply. (Poster) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
+* Yi, S., Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Assessment of environmental flows in the Central Valley under different management scenarios. (Talk) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
+* Yi, S., Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating environmental flows in the Central Valley under various management scenario. (Talk) 12/9-13/2024, San Francisco, California.
+
