@@ -26,13 +26,13 @@ Open to students from UC campuses who are part of the COEQWAL project.
 As co-instructor, I led weekly virtual discussions with students and experts, covering California's water history, hydrologic systems, and management challenges. I co-led the student video project, where participants created 5-minute videos, which will be featured on the COEQWAL website.
 
 ## Past
-List of Courses, Year, and My Role
-*GSI: Graduate Student Instructor
-^UC Davis; all other courses taught at UC Berkeley
+* List of Courses, Year, and My Role
+* *GSI: Graduate Student Instructor
+* ^UC Davis; all other courses taught at UC Berkeley
 
 | Role             | Year   | Course                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Instructor       | 2024   | LA205: Environmental Planning Studio | Hydrology Module      |
+| Instructor       | 2024   | LA205: Environmental Planning Studio - Hydrology Module      |
 | Instructor       | 2021   | CVIENG103: Terrestrial hydrology                             |
 | GSI*             | 2020   | LA 12: Environmental Science for Sustainable Development     |
 | GSI*             | 2020   | CVIENG103: Terrestrial hydrology                             |
