@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## California Water Policy and Management - _UC Davis_
+### Co-Instructor (Fall, 2024)
+*	**Course Description**:
+Provide relevant and applied education of water science, management and water policy to residents, businesses, community water advocates, and entry level professionals in California.
+* **Audience**:
+People working in the water sector (entry level) or people interested in water in California
+* **My Role**:
+
+
 ## University of California Water Academy - _UC Berkeley_
 ### Co-Instructor (Spring, 2024)
 *	**Course Description**:
@@ -15,3 +24,4 @@ This course covers the historical, scientific, legal, and institutional aspects 
 Open to students from UC campuses who are part of the COEQWAL project.
 * **My Role**:
 As co-instructor, I led weekly virtual discussions with students and experts, covering California's water history, hydrologic systems, and management challenges. I co-led the student video project, where participants created 5-minute videos, which will be featured on the COEQWAL website.
+
