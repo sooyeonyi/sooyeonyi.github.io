@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ### Current
 ### California Water Policy and Management - _UC Davis_
-Course Coordinator (Fall, 2024)
+Course Coordinator (Fall, 2024 - Summer, 2025)
 *	**Course Description**:
 This course provides practical education on water science, management, and policy to residents, businesses, community water advocates, and entry-level professionals in California. The course will launch in November 2024, presented to the Water Program Team, a group of scientists addressing water issues in the state.
 * **Audience**:
