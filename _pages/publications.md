@@ -8,29 +8,29 @@ author_profile: true
 {% include base_path %}
 
 ### Journal Paper (Published)
-* **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
-* **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. Water Resources Research, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
-* Lee, E., Ji, J., Lee, S., Yoon, J., **Yi, S.**, & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. Water, 15(20), 3555. https://doi.org/10.3390/w15203555
-* Lee, S., Choi, Y., Ji, J., Lee, E., **Yi, S.**, & Yi, J. (2023). Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea. Water, 15(11), 1979. [https://doi.org/10.3390/w15111979](https://doi.org/10.3390/w15111979) 
-* Choi, Y., Ji, J., Lee, E., Lee, S., **Yi, S.**, & Yi, J. (2023). Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. Water Resources Management. [https://doi.org/10.1007/s11269-023-03478-0](https://doi.org/10.1007/s11269-023-03478-0) 
-* Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., **Yi, S.**, & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. Water, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
-* **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In Water Resources Management. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
-* Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. Desalination and Water Treatment, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
+* **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. _Water and Environment Journal_, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
+* **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. _Water Resources Research_, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
+* Lee, E., Ji, J., Lee, S., Yoon, J., **Yi, S.**, & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. _Water_, 15(20), 3555. https://doi.org/10.3390/w15203555
+* Lee, S., Choi, Y., Ji, J., Lee, E., **Yi, S.**, & Yi, J. (2023). Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea. _Water_, 15(11), 1979. [https://doi.org/10.3390/w15111979](https://doi.org/10.3390/w15111979) 
+* Choi, Y., Ji, J., Lee, E., Lee, S., **Yi, S.**, & Yi, J. (2023). Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. _Water Resources Management_. [https://doi.org/10.1007/s11269-023-03478-0](https://doi.org/10.1007/s11269-023-03478-0) 
+* Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., **Yi, S.**, & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. _Water_, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
+* **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In _Water Resources Management_. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
+* Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
 ### Journal Paper (under second ^^ and first ^ review)
-*	^^ **Yi, S.**, Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques . Applied Water Science.
-*	^ **Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. Frontiers in Environmental Science.
-*	^ **Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. International Journal of Water Resources Development.
+*	^^ **Yi, S.**, Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques . _Applied Water Science_.
+*	^ **Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. _Frontiers in Environmental Science_.
+*	^ **Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _International Journal of Water Resources Development_.
 *	^ Lee, S., Ji, J., Lee, E., Lee, J., **Yi, S.**, Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. Applied Water Science.
-*	^ Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. Journal of Hydroinformatics.
+*	^ Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
   
 ### Journal paper (Preparation)
-*	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. Journal of Environmental Sciences. 
-*	**Yi, S.**, Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. Journal of Hydrology
-*	**Yi, S.**, Solis, S., Bombardelli, F., Puente, C. Water resources management in the Apurímac River Basin: One-bucket model approach. Water.
-*	**Yi, S.**, Lisa, T., Kilduff, P., Solis, S. WEAPhish: Integrating water resources and fish population dynamics tools. Journal of Hydroinformatics.
-*	Lee, E.; Ji, J., **Yi, S.**, Choi, Y., Lee, S., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. Hydrology earth system sciences.
-*	Lee, E., Ji, J., **Yi, S.**, Lee, S., Lee, J., Yi, J. Enhancing flood control and water management efficiency. Scientific Report.
+*	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
+*	**Yi, S.**, Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
+*	**Yi, S.**, Solis, S., Bombardelli, F., Puente, C. Water resources management in the Apurímac River Basin: One-bucket model approach. _Water_.
+*	**Yi, S.**, Lisa, T., Kilduff, P., Solis, S. WEAPhish: Integrating water resources and fish population dynamics tools. _Journal of Hydroinformatics_.
+*	Lee, E.; Ji, J., **Yi, S.**, Choi, Y., Lee, S., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. _Hydrology earth system sciences_.
+*	Lee, E., Ji, J., **Yi, S.**, Lee, S., Lee, J., Yi, J. Enhancing flood control and water management efficiency. _Scientific Report_.
   
 ### Technical Report 
 *	Lisa, T., Kilduff, P., Solis, S. **Yi, S.**, Modeling Tool to Assess and Mitigate the Effect of Small Hydropower on Stream Fishes in Changing California Climate, California Energy Commission, Online Report. June 2015.
