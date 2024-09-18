@@ -2,8 +2,6 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-slidesurl:'http://academicpages.github.io/files/paper1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV here: [CV_Sooyeon_09-2024](http://sooyeonyi.github.io/files/CV_Sooyeon_09-2024.pdf) 
+Please find my full CV here: [CV_Sooyeon_09-2024](http://sooyeonyi.github.io/files/CV_Sooyeon_Yi_09-2024.pdf) 
 
 ### Education
 * Ph.D in Environmental Planning, _UC Berkeley_ (2022)
