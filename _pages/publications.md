@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Journal paper (Published)
+### Journal Paper (Published)
 * **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. Water and Environment Journal, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
 * **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. Water Resources Research, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
 * Lee, E., Ji, J., Lee, S., Yoon, J., **Yi, S.**, & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. Water, 15(20), 3555. https://doi.org/10.3390/w15203555
@@ -17,7 +17,7 @@ author_profile: true
 * **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In Water Resources Management. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
 * Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. Desalination and Water Treatment, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
-### Journal paper (under second ^^ and first ^ review)
+### Journal Paper (under second ^^ and first ^ review)
 *	^^ **Yi, S.**, Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques . Applied Water Science.
 *	^ **Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. Frontiers in Environmental Science.
 *	^ **Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. International Journal of Water Resources Development.
