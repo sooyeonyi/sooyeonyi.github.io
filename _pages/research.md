@@ -45,7 +45,7 @@ Ongoing Projects & Publication(s):
 * My research focuses on leveraging machine learning (ML) and deep learning (DL) algorithms to improve forecasting and management in water resources. By integrating advanced computational techniques with hydrological data, I aim to enhance predictive models for flood forecasting, groundwater levels, and energy use in water transfer projects. These methods offer powerful tools to optimize water management operations and improve decision-making in a variety of hydrological contexts.
 
 Ongoing Projects & Publication(s):
-1.	Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea – [Published](https://doi.org/10.3390/w15111979).
+1.	Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea - [Publihsed](https://doi.org/10.1029/2022WR032779)
 2.	Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought – [Published](https://doi.org/10.3390/w14203242).
-3.	Reservoir-basedfloodforecastingandwarningusingmachine learning and deep learning techniques – _Under review by Applied Water Science_.
+3.	Reservoir-basedfloodforecastingand warningusing machine learning and deep learning techniques – _Under review by Applied Water Science_.
 4.	Development of a reservoir operation model determining the pre-release strategy for flood events – _Manuscript under preparation_.
