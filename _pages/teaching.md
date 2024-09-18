@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Current
+### Current
 ### California Water Policy and Management - _UC Davis_
 ### Course Coordinator (Fall, 2024)
 *	**Course Description**:
@@ -25,7 +25,7 @@ Open to students from UC campuses who are part of the COEQWAL project.
 * **My Role**:
 As co-instructor, I led weekly virtual discussions with students and experts, covering California's water history, hydrologic systems, and management challenges. I co-led the student video project, where participants created 5-minute videos, which will be featured on the COEQWAL website.
 
-## Past
+### Past
 * List of Courses, Year, and My Role
 | Role             | Year   | Course                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
