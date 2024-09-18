@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my full CV here: 
+
 ### Education
 * Ph.D in Environmental Planning, _UC Berkeley_ (2022)
 * M.S. in Hydrology and Water Resrouces Management, _UC Davis_ (2016)
