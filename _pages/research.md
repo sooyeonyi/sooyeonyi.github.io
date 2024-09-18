@@ -12,7 +12,7 @@ author_profile: true
 
 ### Research Agenda
 
-### **1.	Surface Hydrology & Water Resources Management 
+### **1.	Surface Hydrology & Water Resources Management** 
 * My research focuses on understanding surface hydrology and improving water resources management through advanced modeling techniques. I investigate streamflow prediction, flood management, and the effects of human interventions like dam removal on hydrological systems. I also apply machine learning and optimization models to enhance water management strategies, particularly in reservoir operations, water allocation, and inter-basin transfers. My work aims to address water supply challenges, improve energy efficiency, and support ecosystem resilience in response to land use changes and climate impacts.
 
 Ongoing Projects & Publication(s):
