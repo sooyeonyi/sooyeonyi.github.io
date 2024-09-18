@@ -27,9 +27,6 @@ As co-instructor, I led weekly virtual discussions with students and experts, co
 
 ## Past
 * List of Courses, Year, and My Role
-* *GSI: Graduate Student Instructor
-* ^UC Davis; all other courses taught at UC Berkeley
-
 | Role             | Year   | Course                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
 | Instructor       | 2024   | LA205: Environmental Planning Studio - Hydrology Module      |
@@ -40,3 +37,6 @@ As co-instructor, I led weekly virtual discussions with students and experts, co
 | Instructor       | 2019   | LA 253: Water-Energy Nexus                                   |
 | GSI*             | 2018   | LA 12: Environmental Science for Sustainable Development     |
 | GSI*^            | 2016   | Hydrology 298: Hydrologic Science Principles of HEC Software |
+
+* *GSI: Graduate Student Instructor
+* ^UC Davis; all other courses taught at UC Berkeley
