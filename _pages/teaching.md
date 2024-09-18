@@ -27,6 +27,7 @@ As co-instructor, I led weekly virtual discussions with students and experts, co
 
 ### Past
 * List of Courses, Year, and My Role
+
 | Role             | Year   | Course                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
 | Instructor       | 2024   | LA205: Environmental Planning Studio - Hydrology Module      |
