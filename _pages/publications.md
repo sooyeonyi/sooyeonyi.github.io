@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Journal Paper (Published)
-* **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. _Water and Environment Journal_, 38(3), 535–547.[https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
+* **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. _Water and Environment Journal_, 38(3), 535–547. [https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
 * **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. _Water Resources Research_, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
 * Lee, E., Ji, J., Lee, S., Yoon, J., **Yi, S.**, & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. _Water_, 15(20), 3555. [https://doi.org/10.3390/w15203555](https://doi.org/10.3390/w15203555) 
 * Lee, S., Choi, Y., Ji, J., Lee, E., **Yi, S.**, & Yi, J. (2023). Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea. _Water_, 15(11), 1979. [https://doi.org/10.3390/w15111979](https://doi.org/10.3390/w15111979) 
