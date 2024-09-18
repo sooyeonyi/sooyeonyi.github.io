@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV here: [CV_Sooyeon_09-2024](http://academicpages.github.io/files/CV_Sooyeon_09-2024.pdf) 
+Please find my full CV here: [CV_Sooyeon_09-2024](http://sooyeonyi.github.io/files/CV_Sooyeon_09-2024.pdf) 
 
 ### Education
 * Ph.D in Environmental Planning, _UC Berkeley_ (2022)
