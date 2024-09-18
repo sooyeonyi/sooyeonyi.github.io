@@ -29,7 +29,6 @@ As co-instructor, I led weekly virtual discussions with students and experts, co
 
 | Role             | Year   | Course                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Instructor       | 2024   | LA205: Environmental Planning Studio - Hydrology Module      |
 | Instructor       | 2021   | CVIENG103: Terrestrial hydrology                             |
 | GSI*             | 2020   | LA 12: Environmental Science for Sustainable Development     |
 | GSI*             | 2020   | CVIENG103: Terrestrial hydrology                             |
