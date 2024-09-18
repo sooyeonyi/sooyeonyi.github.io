@@ -47,5 +47,5 @@ Ongoing Projects & Publication(s):
 Ongoing Projects & Publication(s):
 1.	Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea - [Publihsed](https://doi.org/10.1029/2022WR032779)
 2.	Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought – [Published](https://doi.org/10.3390/w14203242).
-3.	Reservoir-basedfloodforecastingand warningusing machine learning and deep learning techniques – _Under review by Applied Water Science_.
+3.	Reservoir-based flood forecasting and warning using machine learning and deep learning techniques – _Under the second round of review by Applied Water Science_.
 4.	Development of a reservoir operation model determining the pre-release strategy for flood events – _Manuscript under preparation_.
