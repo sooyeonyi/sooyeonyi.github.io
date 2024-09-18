@@ -14,7 +14,7 @@ This course provides practical education on water science, management, and polic
 * **Audience**:
 Open to residents, professionals, and advocates interested in water management in California.
 * **My Role**:
-As a course facilitator, I assist with developing course materials, organizing discussions, and coordinating logistics to ensure the effective delivery of the course content.
+As a course coordinator, I assist with developing course materials, organizing discussions, and coordinating logistics to ensure the effective delivery of the course content.
 
 ### University of California Water Academy - _UC Berkeley_
 Co-Instructor (Spring, 2024)
