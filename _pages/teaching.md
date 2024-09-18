@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## California Water Policy and Management - _UC Davis_
-### Co-Instructor (Fall, 2024)
+### Course Coordinator (Fall, 2024)
 *	**Course Description**:
-Provide relevant and applied education of water science, management and water policy to residents, businesses, community water advocates, and entry level professionals in California.
+This course provides practical education on water science, management, and policy to residents, businesses, community water advocates, and entry-level professionals in California. The course will launch in November 2024, presented to the Water Program Team, a group of scientists addressing water issues in the state.
 * **Audience**:
-People working in the water sector (entry level) or people interested in water in California
+Open to residents, professionals, and advocates interested in water management in California.
 * **My Role**:
-
+As a course facilitator, I assist with developing course materials, organizing discussions, and coordinating logistics to ensure the effective delivery of the course content.
 
 ## University of California Water Academy - _UC Berkeley_
 ### Co-Instructor (Spring, 2024)
