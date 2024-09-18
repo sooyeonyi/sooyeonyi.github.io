@@ -19,11 +19,11 @@ Ongoing Projects & Publication(s):
 1.	Water evaluation and planning (WEAP) model application for exploring the water deficit at the catchment level in Beijing. [Published](https://doi.org/10.5004/dwt.2018.22332)
 2.	Water Transfer Energy Efficiency Index for inter-basin water transfer projects. [Published](https://onlinelibrary.wiley.com/doi/10.1111/wej.12929)
 3.	Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. [Published](https://doi.org/10.1007/s11269-023-03478-0)
-4.	Predicting flow regime alterations post-dam removal – _Under review by Applied Water Science_.
-5.	Enhancing flood control and water management efficiency - _Manuscript under preparation_.
-6.	Predicting streamflow in ungauged basins using deep learning algorithms - _Manuscript under preparation_.
-7.	Water resources management in the Apurímac River Basin: One-bucket model approach - _Manuscript under preparation_.
-8. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin - _Manuscript under preparation_.
+4.	Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin - [Publihsed](https://doi.org/10.3390/w15203555).
+5.	Predicting flow regime alterations post-dam removal – _Under review by Applied Water Science_.
+6.	Enhancing flood control and water management efficiency - _Manuscript under preparation_.
+7.	Predicting streamflow in ungauged basins using deep learning algorithms - _Manuscript under preparation_.
+8.	Water resources management in the Apurímac River Basin: One-bucket model approach - _Manuscript under preparation_.
 
 ### **2.	Ecosystem Management**
 * My research in ecosystem management focuses on evaluating the effects of water management practices on environmental flows and fish populations, particularly in California’s Central Valley. As part of the COEQWAL project, I am investigating how water management scenarios and operational changes impact environmental flow targets and ecosystem health. The natural seasonal water flows in California’s rivers have been altered by dams, infrastructure, and land use changes, leading to habitat degradation and fish population decline. Through scenario planning, we are assessing how changes in water management could improve or hinder the sustainability of environmental flows, while balancing competing water demands.
