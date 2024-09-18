@@ -49,7 +49,7 @@ author_profile: true
 * Lee, S., Ji, J., Lee, E., Yoon, J., Lee, C., **Yi, S.**, Yi., J. Deep learning for unpredicted flow forecasting in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
 * **Yi, S.**, Yi, J. Hydrological modeling of the Los Angeles River Basin. (**Poster**) AGU, 12/9-13/2019, San Francisco, California. 
 * **Yi, S.**, Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) California Water and Environmental Modeling Forum, 4/2-4/2018, Folsom, California.
-* Yi, S., Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) Interagency Ecological Program, 3/6-8/2018, Folsom, California.
+* **Yi, S.**, Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) Interagency Ecological Program, 3/6-8/2018, Folsom, California.
 * **Yi, S.**, Ju, Y., He., Y. Projecting future inland flooding susceptibility due to climate change in California using machine learning. (**Oral**) American Association of Geographers (AAG), 04/10-14/2018, New Orleans, Louisiana.
 * **Yi, S.**, Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) AGU, 12/11-15/2017, New Orleans, Louisiana.
 * **Yi, S.**, Sandoval-Solis, S., Bombardelli, F., Puente, C. Hydrological WEAP Modeling of the Upper Basin of the Apurimac River Basin, in Peru. (**Poster**) AGU, 12/14-18/2015, San Francisco, California. 
