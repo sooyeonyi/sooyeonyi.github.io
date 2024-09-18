@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Research Interests
+### Research Interests
 * My research focuses on understanding the complex interactions between water, the environment, and human systems, with an emphasis on water resources management, climate change, riparian ecosystems, and risk assessment related to droughts and floods. I strive to develop innovative solutions—whether through physics-based models or data-driven approaches—that promote the sustainable management of water resources while enhancing the resilience of ecosystems and human systems.
 
-## Postdoctoral Researcher (2024 - ) - _UC Berkeley_
+### Postdoctoral Researcher (2024 - ) - _UC Berkeley_
 ### Collaboratory for Equity in Water Allocations [COEQWAL](https://live-coeqwal-ca.pantheon.berkeley.edu/)
 *	Explore how the Central Valley’s water management system performs under a wide range of operational alterations and climate futures. 
 *	Assess how operational alternatives enable or hinder our ability to sustain environmental flows in Central Valley rivers, assessed in relation to natural, unpaired flows and to functional flow targets. 
@@ -54,7 +54,7 @@ author_profile: true
 *	Utilize kriging and cokriging in geostatistical methods, and employ RF, SVR, LSTM, and GRU in machine learning models.
 *	Identify significant independent variables affecting low (Q80, Q90, Q95) medium (Q30, Q40, Q50, Q60, Q70), and high flow (Q10, Q20) conditions. 
 
-## Researcher (Feb – Aug 2023) - _UC Berkeley_
+### Researcher (Feb – Aug 2023) - _UC Berkeley_
 ### Reservoir-based Flood Forecasting and Warning using Machine Learning and Deep Learning Techniques
 ### Under second round of review by the Applied Water Science
 *	Develops models to predict streamflow, using regionalization techniques for streamflow prediction in ungauged basins (PUB).
@@ -67,7 +67,7 @@ author_profile: true
 *	Evaluate how the reservoir's shift from solely hydropower to multiple uses affects the downstream reservoir through water budget analysis.
 *	Investigate the various effects of transitioning to multi-purpose reservoir, such as water quality, downstream flow patterns, and hydropower generation.
 
-## Researcher (Aug 2022 – Feb 2023) - _UC Berkeley_
+### Researcher (Aug 2022 – Feb 2023) - _UC Berkeley_
 ### Flood Vulnerability Assessment of an Urban Area: A Case Study in Seoul, South Korea
 ### [https://doi.org/10.3390/w15111979](https://doi.org/10.3390/w15111979 )
 *	Develop flood risk criteria that assist in issuing a more local-specific extreme rainfall warning that reflects the local meteorologic and geographic characteristics.
