@@ -31,10 +31,10 @@ Led the UC Water Academy Field Trip, an intensive week-long tour of Californiaâ€
 Attended the "International Conference on Water Pollution and Treatment" in Berlin, Germany. [07/21 - 07/23/2024]
 ### Conference abstract submission:
 Submitted an abstract titled "Evaluating Environmental Flows in the Central Valley Under Various Management Scenarios" for the AGU conference in Washington D.C., December 2024. [07/23/2024]
-### Conference abstract submission:
-Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 ### Meeting:
 Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
+### Conference abstract submission:
+Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 ### New publication:
 Published a journal article titled "Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea" in _Water Resources Research_. [05/06/2024]
 ### Publication submission:
