@@ -23,7 +23,7 @@ author_profile: true
 
 ### Journal Paper (Under First Round of Review)
 *	**Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. _Frontiers in Environmental Science_.
-*	**Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _International Journal of Water Resources Development_.
+*	**Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _Hydrological Processes_.
 *	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
 
 ### Journal paper (Preparation)
