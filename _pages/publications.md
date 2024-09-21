@@ -17,13 +17,15 @@ author_profile: true
 * **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In _Water Resources Management_. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
 * Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
-### Journal Paper (under second ^^ and first ^ review)
-*	^^ **Yi, S.**, Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques . _Applied Water Science_.
-*	^ **Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. _Frontiers in Environmental Science_.
-*	^ **Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _International Journal of Water Resources Development_.
-*	^ Lee, S., Ji, J., Lee, E., Lee, J., **Yi, S.**, Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. Applied Water Science.
-*	^ Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
-  
+### Journal Paper (Under Second Round of Review)
+*	**Yi, S.**, Yi, J. Reservoir-based flood forecasting and warning using machine learning and deep learning techniques. _Applied Water Science_.
+*	Lee, S., Ji, J., Lee, E., Lee, J., **Yi, S.**, Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. Applied Water Science.
+
+### Journal Paper (Under First Round of Review)
+*	**Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. _Frontiers in Environmental Science_.
+*	**Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _International Journal of Water Resources Development_.
+*	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
+
 ### Journal paper (Preparation)
 *	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
 *	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
