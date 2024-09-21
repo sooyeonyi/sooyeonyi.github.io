@@ -44,4 +44,4 @@ Published a journal article titled "Water Transfer Energy Efficiency Index for I
 ### Career:
 Started a postdoctoral researcher position with Prof. Ted Grantham in the ESPM Department at UC Berkeley. [03/01/2024]
 ### New publication:
-Published a journal article titled "Development of an Optimal Water Allocation Model for Reservoir System Operation" in _Water_. [10/12/2024]
+Published a journal article titled "Development of an Optimal Water Allocation Model for Reservoir System Operation" in _Water_. [10/12/2023]
