@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+### News
+
 ### Event
 * Moderated the "Postdoc Alumni Career Panel" event as part of the "Berkeley Postdoctoral Appreciation Week (NPAW)." [09/20/2024]
 ### Conference
@@ -25,5 +27,11 @@ Participated in the launch meeting for the California Management Policy Course. 
 * Submitted the revised manuscript titled "Reservoir-Based Flood Forecasting and Warning: Deep Learning Versus Machine Learning" to _Applied Water Science_. [08/15/2024]
 ### Publication
 * Submitted a manuscript titled "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [08/13/2024]
+### Education
+* Led the UC Water Academy Field Trip, an intensive week-long tour of California’s water system, including visits to key water infrastructure projects and meetings with experts from various water management sectors. The itinerary featured Yosemite National Park, Hetch Hetchy Reservoir, Central Valley, the Sacramento-San Francisco Bay Delta, and a 3-day rafting trip on the Tuolumne River.
 ### Conference
 Submitted an abstract titled "Evaluating Environmental Flows in the Central Valley Under Various Management Scenarios" for the AGU conference in Washington, D.C., December 2024. [07/23/2024]
+### Conference
+Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
+### Conference
+Attended the "International Conference on Water Pollution and Treatment" in Berlin, Germany.
