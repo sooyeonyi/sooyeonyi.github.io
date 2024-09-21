@@ -30,7 +30,7 @@ Led the UC Water Academy Field Trip, an intensive week-long tour of Californiaâ€
 ### Conference presentation:
 Attended the "International Conference on Water Pollution and Treatment" in Berlin, Germany. [07/21 - 07/23/2024]
 ### Conference abstract submission:
-Submitted an abstract titled "Evaluating Environmental Flows in the Central Valley Under Various Management Scenarios" for the AGU conference in Washington, D.C., December 2024. [07/23/2024]
+Submitted an abstract titled "Evaluating Environmental Flows in the Central Valley Under Various Management Scenarios" for the AGU conference in Washington D.C., December 2024. [07/23/2024]
 ### Conference abstract submission:
 Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 ### Meeting:
