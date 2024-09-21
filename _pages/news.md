@@ -14,7 +14,7 @@ Submitted an abstract titled "Integrated Modeling of Hydrologic Processes at the
 ### Event:
 Participated in the Berkeley Postdoctoral Association board meeting to finalize the budget for 2024–2025. [09/17/2024]
 ### Education:
-Participated in the launch meeting for the California Management Policy Course. [9/16/2024]
+Participated in the launch meeting for the California Water Management Policy Course. [9/16/2024]
 ### Meeting:
 Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 ### Education:
