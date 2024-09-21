@@ -17,3 +17,13 @@ author_profile: true
 Participated in the launch meeting for the California Management Policy Course. [9/16/2024]
 ### Meeting
 * Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
+### Education
+* Led the UC Water Academy Final Project and Presentation.[09/10/2024]
+### Publication
+* Submitted the manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [09/03/2024]
+### Publication
+* Submitted the revised manuscript titled "Reservoir-Based Flood Forecasting and Warning: Deep Learning Versus Machine Learning" to _Applied Water Science_. [08/15/2024]
+### Publication
+* Submitted a manuscript titled "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [08/13/2024]
+### Conference
+Submitted an abstract titled "Evaluating Environmental Flows in the Central Valley Under Various Management Scenarios" for the AGU conference in Washington, D.C., December 2024. [07/23/2024]
