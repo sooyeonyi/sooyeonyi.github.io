@@ -18,7 +18,7 @@ Participated in the launch meeting for the California Water Management Policy Co
 ### Meeting:
 Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 ### Education:
-Led the UC Water Academy Final Project and Presentation.[09/10/2024]
+Led the UC Water Academy Final Project and Presentation. [09/10/2024]
 ### Publication submission:
 Submitted the manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [09/03/2024]
 ### Publication submission:
