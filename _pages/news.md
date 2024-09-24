@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+### Upcoming presentation:
+Present at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf) [10/02/2024]
+
 ### Event:
 Moderated the "Postdoc Alumni Career Panel" event as part of the "Berkeley Postdoctoral Appreciation Week (NPAW)." [09/20/2024]
 ### Conference abstract submission:
