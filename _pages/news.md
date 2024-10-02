@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Upcoming Event
+### Upcoming Event:
 Attending COEQWAL Research Team Meeting in Davis [10/18-19/2024]
 
 ### Accepted publication:
