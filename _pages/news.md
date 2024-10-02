@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-### Upcoming presentation:
-Present at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf) [10/02/2024]
+## Upcoming Event
+Attending COEQWAL Research Team Meeting in Davis [10/18-19/2024]
 
+### Accepted publication:
+Accepted" for publication "Reservoir-based Flood Forecasting and Warning: Deep Learning versus Machine Learning" in _Applied Water Science_ on 10/02/2024. [10/02/2024]
+### Conference presentation:
+Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
 ### Event:
 Moderated the "Postdoc Alumni Career Panel" event as part of the "Berkeley Postdoctoral Appreciation Week (NPAW)." [09/20/2024]
 ### Conference abstract submission:
