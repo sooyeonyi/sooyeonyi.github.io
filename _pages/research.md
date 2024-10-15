@@ -16,9 +16,9 @@ author_profile: true
 * My research focuses on understanding surface hydrology and improving water resources management through advanced modeling techniques. I investigate streamflow prediction, flood management, and the effects of human interventions like dam removal on hydrological systems. I also apply machine learning and optimization models to enhance water management strategies, particularly in reservoir operations, water allocation, and inter-basin transfers. My work aims to address water supply challenges, improve energy efficiency, and support ecosystem resilience in response to land use changes and climate impacts.
 
 Ongoing Projects & Publication(s):
-1.	Water evaluation and planning (WEAP) model application for exploring the water deficit at the catchment level in Beijing. [Published](https://doi.org/10.5004/dwt.2018.22332).
-2.	Water transfer energy efficiency index for inter-basin water transfer projects. [Published](https://onlinelibrary.wiley.com/doi/10.1111/wej.12929).
-3.	Developing optimal reservoir rule curve for hydropower reservoir with an add-on water supply function using improved grey wolf optimizer. [Published](https://doi.org/10.1007/s11269-023-03478-0).
+1.	Water evaluation and planning (WEAP) model application for exploring the water deficit at the catchment level in Beijing - [Published](https://doi.org/10.5004/dwt.2018.22332).
+2.	Water transfer energy efficiency index for inter-basin water transfer projects - [Published](https://onlinelibrary.wiley.com/doi/10.1111/wej.12929).
+3.	Developing optimal reservoir rule curve for hydropower reservoir with an add-on water supply function using improved grey wolf optimizer - [Published](https://doi.org/10.1007/s11269-023-03478-0).
 4.	Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin - [Published](https://doi.org/10.3390/w15203555).
 5.	Predicting flow regime alterations post-dam removal – _Under review by Applied Water Science_.
 6.	Enhancing flood control and water management efficiency - _Manuscript under preparation_.
