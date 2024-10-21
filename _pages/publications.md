@@ -20,7 +20,7 @@ author_profile: true
 
 ### Journal Paper (Under Second Round of Review)
   1.  **Yi, S.**, Kondolf, M. Environmental Planning in U.S. Inter-Basin Water Transfer Projects. _Frontiers in Environmental Science_.
-  2.	Lee, S., Ji, J., **Yi, S.**, Lee, E., Lee, J.,  Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. Applied Water Science.
+  2.	Lee, S., Ji, J., **Yi, S.**, Lee, E., Lee, J.,  Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
 
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Lee, J., Lee., C., Lee., Lee., S., Ji, J., Lee, E., Yi., J. Predicting flow regime alterations post-dam removal: A machine learning approach incorporating land use and cover dynamics. _Hydrological Processes_.
