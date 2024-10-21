@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Event:
-Attending COEQWAL Research Team Meeting in Davis [10/18-19/2024]
+Attending the American Geophysical Union (AGU) conference in Washington, D.C. [12/9-13/2024]
 
+### Meeting:
+Participated in the Research Team Meeting in Davis. [10/18-19/2024]
 ### New publication:
 Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 ### Accepted publication:
