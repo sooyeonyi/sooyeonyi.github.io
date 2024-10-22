@@ -13,7 +13,7 @@ Attending the American Geophysical Union (AGU) conference in Washington, D.C. [1
 ### Publication submission:
 Submitted the revised manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_, now under second-round review. [10/21/2024]
 ### Meeting:
-Participated in the Research Team Meeting in Davis. [10/18-19/2024]
+Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 ### New publication:
 Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 ### Publication submission:
