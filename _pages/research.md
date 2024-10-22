@@ -20,7 +20,7 @@ Ongoing Projects & Publication(s):
 2.	Water transfer energy efficiency index for inter-basin water transfer projects - [Published](https://onlinelibrary.wiley.com/doi/10.1111/wej.12929).
 3.	Developing optimal reservoir rule curve for hydropower reservoir with an add-on water supply function using improved grey wolf optimizer - [Published](https://doi.org/10.1007/s11269-023-03478-0).
 4.	Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin - [Published](https://doi.org/10.3390/w15203555).
-5.	Predicting flow regime alterations post-dam removal – _Under review by Applied Water Science_.
+5.	Predicting flow regime alterations post-dam removal – _Under second round of review by Applied Water Science_.
 6.	Enhancing flood control and water management efficiency - _Manuscript under preparation_.
 7.	Predicting streamflow in ungauged basins using deep learning algorithms - _Manuscript under preparation_.
 8.	Water resources management in the Apurímac River Basin: One-bucket model approach - _Manuscript under preparation_.
@@ -29,7 +29,7 @@ Ongoing Projects & Publication(s):
 * My research in ecosystem management focuses on evaluating the effects of water management practices on environmental flows and fish populations, particularly in California’s Central Valley. As part of the COEQWAL project, I am investigating how water management scenarios and operational changes impact environmental flow targets and ecosystem health. The natural seasonal water flows in California’s rivers have been altered by dams, infrastructure, and land use changes, leading to habitat degradation and fish population decline. Through scenario planning, we are assessing how changes in water management could improve or hinder the sustainability of environmental flows, while balancing competing water demands.
 
 Ongoing Projects & Publication(s):
-1.	Environmental planning in U.S. inter-basin water transfer projects – _Under review by Frontiers of Environmental Science_.
+1.	Environmental planning in U.S. inter-basin water transfer projects – _Under second round of review by Frontiers of Environmental Science_.
 2.	Evaluating environmental flows in the Central Valley under various management scenarios – _Manuscript under preparation_.
 3.	WEAPhish: Integrating water resources and fish population dynamics tools – _Manuscript under preparation_.
 
