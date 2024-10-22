@@ -51,11 +51,11 @@ Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
 ### Conference abstract submission:
 Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 ### New publication:
-Published a journal article titled "Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea" in _Water Resources Research_. [05/06/2024]
+Published a journal article titled "[Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea](https://doi.org/10.1029/2022WR032779)" in _Water Resources Research_. [05/06/2024]
 ### Publication submission:
 Submitted a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_. [05/03/2024]
 ### New publication:
-Published a journal article titled "Water Transfer Energy Efficiency Index for Inter-Basin Water Transfer Projects" in the _Water and Environment Journal_. [05/02/2024]
+Published a journal article titled "[Water Transfer Energy Efficiency Index for Inter-Basin Water Transfer Projects](https://doi.org/10.1111/wej.12929)" in the _Water and Environment Journal_. [05/02/2024]
 ### Career:
 Started a postdoctoral researcher position with Prof. Ted Grantham in the ESPM Department at UC Berkeley. [03/01/2024]
 ### New publication:
