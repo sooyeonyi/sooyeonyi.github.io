@@ -29,7 +29,7 @@ Submitted an abstract titled "Integrated Modeling of Hydrologic Processes at the
 ### Event:
 Participated in the Berkeley Postdoctoral Association board meeting to finalize the budget for 2024–2025. [09/17/2024]
 ### Education:
-Participated in the launch meeting for the California Water Management Policy Course. [9/16/2024]
+Participated in the launch meeting for the California Water Management Policy Course. [09/16/2024]
 ### Meeting:
 Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 ### Education:
@@ -41,7 +41,7 @@ Submitted the revised manuscript titled "Reservoir-Based Flood Forecasting and W
 ### Publication submission:
 Submitted a manuscript titled "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [08/13/2024]
 ### Education:
-Led the UC Water Academy Field Trip, an intensive week-long tour of California’s water system, including visits to key water infrastructure projects and meetings with experts from various water management sectors. The itinerary featured Yosemite National Park, Hetch Hetchy Reservoir, Central Valley, the Sacramento-San Francisco Bay Delta, and a 3-day rafting trip on the Tuolumne River. [7/27 - 08/02/2024]
+Led the UC Water Academy Field Trip, an intensive week-long tour of California’s water system, including visits to key water infrastructure projects and meetings with experts from various water management sectors. The itinerary featured Yosemite National Park, Hetch Hetchy Reservoir, Central Valley, the Sacramento-San Francisco Bay Delta, and a 3-day rafting trip on the Tuolumne River. [07/27 - 08/02/2024]
 ### Conference presentation:
 Attended the "International Conference on Water Pollution and Treatment" in Berlin, Germany. [07/21 - 07/23/2024]
 ### Conference abstract submission:
