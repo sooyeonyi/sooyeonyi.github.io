@@ -11,13 +11,13 @@ author_profile: true
 Attending the American Geophysical Union (AGU) conference in Washington, D.C. [12/9-13/2024]
 
 ### Publication submission:
-Submitted the revised manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [10/21/2024]
+Submitted the revised manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_, now under second-round review. [10/21/2024]
 ### Meeting:
 Participated in the Research Team Meeting in Davis. [10/18-19/2024]
 ### New publication:
 Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 ### Publication submission:
-Submitted the revised manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_. [10/09/2024]
+Submitted the revised manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_, now under second-round review. [10/09/2024]
 ### Accepted publication:
 Accepted for publication "Reservoir-based Flood Forecasting and Warning: Deep Learning versus Machine Learning" in _Applied Water Science_. [10/02/2024]
 ### Conference presentation:
