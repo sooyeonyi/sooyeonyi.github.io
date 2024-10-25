@@ -10,8 +10,8 @@ author_profile: true
 ### Upcoming Event:
 Attending the American Geophysical Union (AGU) conference in Washington, D.C. [12/9-13/2024]
 
-### Publication submission:
-Submitted the revised manuscript titled "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_, now under second-round review. [10/21/2024]
+### Accepted publication:
+Accepted for publication "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [10/25/2024]
 ### Meeting:
 Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 ### New publication:
