@@ -11,7 +11,7 @@ author_profile: true
 Attending the American Geophysical Union (AGU) conference in Washington, D.C. [12/9-13/2024]
 
 ### Publication submission:
-Submitted a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" to _Journal_of_Hydrology_. [10/27/2024]
+Submitted a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" to _Journal of Hydrology_. [10/27/2024]
 ### Accepted publication:
 Accepted for publication "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [10/25/2024]
 ### Meeting:
