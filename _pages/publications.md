@@ -29,8 +29,6 @@ author_profile: true
 ### Journal paper (Preparation)
 *	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
 *	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
-*	**Yi, S.**, Sandoval-Solis, S., Bombardelli, F., Puente, C. Water resources management in the Apurímac River Basin: One-bucket model approach. _Water_.
-*	**Yi, S.**, Lisa, T., Kilduff, P., Sandoval-Solis, S. WEAPhish: Integrating water resources and fish population dynamics tools. _Journal of Hydroinformatics_.
 *	Lee, E.; Ji, J., **Yi, S.**, Choi, Y., Lee, S., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. _Hydrology earth system sciences_.
 *	Lee, E., Ji, J., **Yi, S.**, Lee, S., Lee, J., Yi, J. Enhancing flood control and water management efficiency. _Scientific Report_.
   
