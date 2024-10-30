@@ -14,7 +14,7 @@ Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebratin
 
 Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
 
-Organizing the first UCWA 2025 cass planning neeting [11/4/2024]
+Organizing the first UCWA 2025 cass planning meeting [11/4/2024]
 
 
 ### Publication submission:
