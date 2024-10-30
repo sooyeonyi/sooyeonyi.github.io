@@ -8,7 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Event:
-Attending the American Geophysical Union (AGU) conference in Washington, D.C. [12/9-13/2024]
+Attending the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
+
+Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
+
+Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
+
+Organizing the first UCWA 2025 cass planning neeting [11/4/2024]
+
 
 ### Publication submission:
 Submitted a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" to _Journal of Hydrology_. [10/27/2024]
