@@ -41,7 +41,7 @@ author_profile: true
 * **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019.
 
 ### Conferences
-* **Yi, S.**, Sandoval-Solis, S. Assessing Uncertainty in Water Balance Models: A Machine Learning Approach Under Climate Change Scenarios (**Undecided**) EWRI, 5/18-21/2025, Anchorage, Alaska.
+* **Yi, S.**, Sandoval-Solis, S. Assessing Uncertainty in Water Balance Models: A Machine Learning Approach Under Climate Change Scenarios (**Oral**) EWRI, 5/18-21/2025, Anchorage, Alaska.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating environmental flows in the Central Valley under various management scenario. (**Poster**) AGU 12/9-13/2024, San Francisco, California.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Assessment of environmental flows in the Central Valley under different management scenarios. (**Oral**) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
 * Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Lee, C., Yi., J. Enhancing flood control and water management efficiency: A case study in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
