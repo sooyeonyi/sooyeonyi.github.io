@@ -46,5 +46,5 @@ under climate change scenarios – _Manuscript under preparation_.
 
 Ongoing Projects & Publication(s):
 1.	Groundwater level forecasting using machine learning: A case study of the Baekje Weir in Four Major Rivers Project, South Korea - [Published](https://doi.org/10.1029/2022WR032779).
-2.	Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought – [Published](https://doi.org/10.3390/w14203242).
+2.	Application of machine learning-based energy use forecasting for inter-basin water transfer project – [Published](https://doi.org/10.1007/s11269-022-03326-7).
 3.	Reservoir-based flood forecasting and warning using machine learning and deep learning techniques – [Published](https://doi.org/10.1007/s13201-024-02298-w).
