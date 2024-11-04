@@ -28,7 +28,7 @@ Ongoing Projects & Publication(s):
 * My research in ecosystem management focuses on evaluating the effects of water management practices on environmental flows and fish populations, particularly in California’s Central Valley. As part of the COEQWAL project, I am investigating how water management scenarios and operational changes impact environmental flow targets and ecosystem health. The natural seasonal water flows in California’s rivers have been altered by dams, infrastructure, and land use changes, leading to habitat degradation and fish population decline. Through scenario planning, we are assessing how changes in water management could improve or hinder the sustainability of environmental flows, while balancing competing water demands.
 
 Ongoing Projects & Publication(s):
-1.	Environmental planning in U.S. inter-basin water transfer projects – [Published](http://doi.org/10.3389/fenvs.2024.1489917).
+1.	Environmental planning and the evolution of inter-basin water transfers in the United States – [Published](http://doi.org/10.3389/fenvs.2024.1489917).
 2.	Evaluating environmental flows in the Central Valley under various management scenarios – _Manuscript under preparation_.
 
 ### **3.	Climate Change**
