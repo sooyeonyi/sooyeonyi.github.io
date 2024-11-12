@@ -25,7 +25,7 @@ author_profile: true
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi., J. Machine learning and deep learning approaches for predicting fow duration curve in ungauged basins. _Hydrology and Earth System Sciences_.
   2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
-  3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. _Hydrology earth system sciences_.
+  3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. _Hydrology Earth System Sciences_.
 
 ### Journal paper (Preparation)
 *	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
