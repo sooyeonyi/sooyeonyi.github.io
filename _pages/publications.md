@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### Journal Paper (Published)
-  1. **Yi, S.**, and Kondolf, G.M. (2024) Environmental planning and the evolution of inter-basin water transfers in the United States. Front. Environ. Sci. 12:1489917. [https://doi.org/10.3389/fenvs.2024.1489917](https://doi.org/10.3389/fenvs.2024.1489917)    
-  2. **Yi, S.**, Yi, J. (2024) Reservoir-based flood forecasting and warning: deep learning versus machine learning. _Appl Water Sci_ 14, 237. [https://doi.org/10.1007/s13201-024-02298-w](https://doi.org/10.1007/s13201-024-02298-w)
+  1. **Yi, S.**, and Kondolf, G.M. (2024). Environmental planning and the evolution of inter-basin water transfers in the United States. Front. Environ. Sci. 12:1489917. [https://doi.org/10.3389/fenvs.2024.1489917](https://doi.org/10.3389/fenvs.2024.1489917)    
+  2. **Yi, S.**, Yi, J. (2024). Reservoir-based flood forecasting and warning: deep learning versus machine learning. _Appl Water Sci_ 14, 237. [https://doi.org/10.1007/s13201-024-02298-w](https://doi.org/10.1007/s13201-024-02298-w)
   3. **Yi, S.** (2024). Water Transfer Energy Efficiency Index for inter-basin water transfer projects. _Water and Environment Journal_, 38(3), 535–547. [https://doi.org/10.1111/wej.12929](https://doi.org/10.1111/wej.12929) 
   4. **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2024). Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in Four Major Rivers Project, South Korea. _Water Resources Research_, 60, e2022WR032779. [https://doi.org/10.1029/2022WR032779](https://doi.org/10.1029/2022WR032779) 
   5. Lee, E., Ji, J., Lee, S., Yoon, J., **Yi, S.**, & Yi, J. (2023). Development of an Optimal Water Allocation Model for Reservoir System Operation. _Water_, 15(20), 3555. [https://doi.org/10.3390/w15203555](https://doi.org/10.3390/w15203555) 
