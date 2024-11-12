@@ -10,7 +10,6 @@ author_profile: true
 ### Upcoming Event:
 * Attending the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
 * Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
-* Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
 
 
 
@@ -38,7 +37,8 @@ author_profile: true
 * Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 * Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
-
+* Attended the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
+* 
 ### Conference:
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
 * Submitted an abstract titled "Integrated Modeling of Hydrologic Processes at the Watershed Scale" for the "2025 Symposium on Hydro-climate and Climate Change (Watershed)" session at the EWRI conference in Anchorage, AK, 2025. [09/18/2024]
