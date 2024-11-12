@@ -14,13 +14,14 @@ Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebratin
 
 Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
 
-Organizing the first UCWA 2025 cass planning meeting [11/4/2024]
 
 
+### New publication:
+Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
+### Meeting:
+Participated in organizing the first UCWA 2025 cass planning meeting [11/4/2024]
 ### Publication submission:
-Under review, a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" by the _Journal of Hydrology_. [11/03/2024]
-### Accepted publication:
-Accepted for publication "Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States" to _Frontiers in Environmental Science_. [10/25/2024]
+Under review, a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" by the _Hydrology and Earth System Sciences_. [11/03/2024]
 ### Meeting:
 Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 ### New publication:
