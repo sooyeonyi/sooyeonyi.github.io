@@ -20,12 +20,12 @@ author_profile: true
   10. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
 ### Journal Paper (Under Second Round of Review)
-  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Lee, J.,  Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
+  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J.,  Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
 
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi., J. Machine learning and deep learning approaches for predicting fow duration curve in ungauged basins. _Hydrology and Earth System Sciences_.
-  2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Lee, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
-  3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Development of a water allocation estimation model for reservoirs utilizing rule curves: A case study of the Han River Basin. _Hydrology Earth System Sciences_.
+  2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
+  3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Integrated simulation model for coordinated reservoir system operation and drought response. _Water Research_.
 
 ### Journal paper (Preparation)
 *	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
