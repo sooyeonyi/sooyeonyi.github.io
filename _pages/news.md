@@ -14,8 +14,8 @@ Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebratin
 
 Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
 
-
-
+### Publication submission:
+Under review, a manuscript titled "Integrated simulation model for coordinated reservoir system operation and drought response" bu the _Water Rsearch_ [11/12/2024]
 ### New publication:
 Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
 ### Meeting:
