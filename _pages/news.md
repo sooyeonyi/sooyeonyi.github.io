@@ -34,10 +34,11 @@ author_profile: true
 * Led the UC Water Academy Field Trip, an intensive week-long tour of California’s water system, including visits to key water infrastructure projects and meetings with experts from various water management sectors. The itinerary featured Yosemite National Park, Hetch Hetchy Reservoir, Central Valley, the Sacramento-San Francisco Bay Delta, and a 3-day rafting trip on the Tuolumne River. [07/27 - 08/02/2024]
 
 ### Meeting:
+* Participated in the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
 * Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 * Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
-* Attended the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
+
 
 ### Conference:
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
