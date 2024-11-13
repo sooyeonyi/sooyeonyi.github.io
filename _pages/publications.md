@@ -28,9 +28,9 @@ author_profile: true
   3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Integrated simulation model for coordinated reservoir system operation and drought response. _Water Research_.
 
 ### Journal paper (Preparation)
-*	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
-*	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
-*	Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Enhancing flood control and water management efficiency. _Scientific Report_.
+  1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
+  2.	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
+  3.	Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Enhancing flood control and water management efficiency. _Scientific Report_.
   
 ### Technical Report 
 *	Lisa, T., Kilduff, P., Sandoval-Solis, S. **Yi, S.**, Modeling Tool to Assess and Mitigate the Effect of Small Hydropower on Stream Fishes in Changing California Climate, California Energy Commission, Online Report. June 2015.
