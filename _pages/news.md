@@ -18,7 +18,7 @@ author_profile: true
 * Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
 * Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 * Published a journal article titled "[Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea](https://doi.org/10.1029/2022WR032779)" in _Water Resources Research_. [05/06/2024]
-* Published a journal article titled "[Water Transfer Energy Efficiency Index for Inter-Basin Water Transfer Projects](https://doi.org/10.1111/wej.12929)" in the _Water and Environment Journal_. [05/02/2024]
+* Published a journal article titled "[Water Transfer Energy Efficiency Index for Inter-Basin Water Transfer Projects](https://doi.org/10.1111/wej.12929)" in _Water and Environment Journal_. [05/02/2024]
 * Published a journal article titled "[Development of an Optimal Water Allocation Model for Reservoir System Operation](https://doi.org/10.3390/w15203555)" in _Water_. [10/12/2023]
 
 ### Publication submission:
