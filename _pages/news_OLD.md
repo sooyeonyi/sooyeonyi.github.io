@@ -12,8 +12,6 @@ Attending the American Geophysical Union (AGU) Conference in Washington, D.C. [1
 
 Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
 
-Attending the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
-
 ### Publication submission:
 Under review, a manuscript titled "Integrated simulation model for coordinated reservoir system operation and drought response" bu the _Water Rsearch_ [11/12/2024]
 ### New publication:
