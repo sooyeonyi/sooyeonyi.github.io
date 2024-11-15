@@ -20,10 +20,10 @@ author_profile: true
   10. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
 
 ### Journal Paper (Under Second Round of Review)
-  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J.,  Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
+  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
 
 ### Journal Paper (Under First Round of Review)
-  1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi., J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
+  1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
   2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
   3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Integrated simulation model for coordinated reservoir system operation and drought response. _Water Research_.
 
@@ -44,9 +44,9 @@ author_profile: true
 * **Yi, S.**, Sandoval-Solis, S. Assessing Uncertainty in Water Balance Models: A Machine Learning Approach Under Climate Change Scenarios (**Oral**) EWRI, 5/18-21/2025, Anchorage, Alaska.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating environmental flows in the Central Valley under various management scenario. (**Poster**) AGU 12/9-13/2024, San Francisco, California.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Assessment of environmental flows in the Central Valley under different management scenarios. (**Oral**) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
-* Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Lee, C., Yi., J. Enhancing flood control and water management efficiency: A case study in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
-* Yoon, J., Lee, E., Ji, J., Lee, S., Lee, C., **Yi, S.**, Yi., J. Contribution of multipurpose utilization of Hwacheon Reservoir to water supply. (**Poster**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
-* Lee, S., Ji, J., Lee, E., Yoon, J., Lee, C., **Yi, S.**, Yi., J. Deep learning for unpredicted flow forecasting in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
+* Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Lee, C., Yi, J. Enhancing flood control and water management efficiency: A case study in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
+* Yoon, J., Lee, E., Ji, J., Lee, S., Lee, C., **Yi, S.**, Yi, J. Contribution of multipurpose utilization of Hwacheon Reservoir to water supply. (**Poster**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
+* Lee, S., Ji, J., Lee, E., Yoon, J., Lee, C., **Yi, S.**, Yi, J. Deep learning for unpredicted flow forecasting in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
 * **Yi, S.**, Yi, J. Hydrological modeling of the Los Angeles River Basin. (**Poster**) AGU, 12/9-13/2019, San Francisco, California. 
 * **Yi, S.**, Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) California Water and Environmental Modeling Forum, 4/2-4/2018, Folsom, California.
 * **Yi, S.**, Sandoval-Solis, S., Thompson, L., Kilduff, P. Master Middle Ware: A Tool to Integrate Water Resources and Fish Population Dynamics Models. (**Poster**) Interagency Ecological Program, 3/6-8/2018, Folsom, California.
