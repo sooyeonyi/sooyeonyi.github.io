@@ -39,6 +39,7 @@ author_profile: true
 
 
 ### Conference:
+* Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
 * Submitted an abstract titled "Integrated Modeling of Hydrologic Processes at the Watershed Scale" for the "2025 Symposium on Hydro-climate and Climate Change (Watershed)" session at the EWRI conference in Anchorage, AK, 2025. [09/18/2024]
 * Attended the "International Conference on Water Pollution and Treatment" in Berlin, Germany. [07/21 - 07/23/2024]
@@ -46,6 +47,7 @@ author_profile: true
 * Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 
 ### Event:
+* Organized the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
 * Moderated the "Postdoc Alumni Career Panel" event as part of the "Berkeley Postdoctoral Appreciation Week (NPAW)." [09/20/2024]
 * Participated in the Berkeley Postdoctoral Association board meeting to finalize the budget for 2024–2025. [09/17/2024]
 
