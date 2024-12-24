@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Event:
-* Attending the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
-* Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
 
 
 
