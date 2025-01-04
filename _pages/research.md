@@ -38,7 +38,7 @@ Ongoing Projects & Publication(s):
 1.	Flood vulnerability assessment of an urban area: A case study in Seoul, South Korea – [Published](https://doi.org/10.3390/w15111979).
 2.	Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought – [Published](https://doi.org/10.3390/w14203242).
 3.	Development of a reservoir operation model determining the pre-release strategy for flood events – _Manuscript under preparation_.
-4.	Asessing uncertainty in water balance models: A machine learning approach
+4.	Assessing uncertainty in water balance models: A machine learning approach
 under climate change scenarios – _Manuscript under preparation_.
 
 ### **4.	Machine Learning & Deep Learning**
