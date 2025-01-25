@@ -21,11 +21,11 @@ author_profile: true
 
 ### Journal Paper (Under Second Round of Review)
   1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
-
+  2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
+     
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
-  2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
-  3.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
+  2.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
 
 ### Journal paper (Preparation)
   1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
