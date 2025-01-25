@@ -26,6 +26,7 @@ author_profile: true
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
   2.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
+  3.	Karimizadeh, K., Yi, S., Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. Journal of Hydrology: Regioanl Studies.
 
 ### Journal paper (Preparation)
   1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
