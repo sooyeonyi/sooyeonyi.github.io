@@ -10,7 +10,6 @@ author_profile: true
 ### Upcoming Event:
 * Participating #2 COEQWAL Advisory Cohort Workshop at Davis. [1/24/2025]
 * Launching UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
-* Submitting an abstract to EGU 2025. [1/15/2025]
 
 
 ### New publication:
