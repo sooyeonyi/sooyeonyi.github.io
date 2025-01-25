@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Event:
-* Participating #2 COEQWAL Advisory Cohort Workshop at Davis. [1/24/2025]
-* Launching UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
-
+* Presenting at the EGU conference in Vienna, Austria (04/27–05/02/2025).
+* Serving as a co-chair for the 2025 AGU Hydro-JDEI group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
+* Serving as a co-chair for the 2025 Berkeley Postdoctoral Association Diversity, Equity, and Inclusion group.
 
 ### New publication:
 * Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
@@ -26,6 +26,7 @@ author_profile: true
 * Under review, a manuscript titled "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [08/13/2024]
 
 ### Education:
+* Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
 * Participated in organizing the first UCWA 2025 cass planning meeting [11/4/2024]
 * Participated in the launch meeting for the California Water Management Policy Course. [09/16/2024]
 * Led the UC Water Academy Final Project and Presentation. [09/10/2024]
@@ -33,12 +34,12 @@ author_profile: true
 
 ### Meeting:
 * Participated in the COEQWAL Salmon Use Case Public Meeting [11/12/2024]
-* Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
+* Participated in the COEQWAL Research Team Meeting in Davis, CA. [10/18-19/2024]
 * Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
 
-
 ### Conference:
+* Submitted an abstract titled "Assessing Environmental Flows in the Central Valley Across Different Management Scenarios" for the EGU conference in Vienna, Austria, [04/27 - 05/02/2025]. 
 * Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
 * Submitted an abstract titled "Integrated Modeling of Hydrologic Processes at the Watershed Scale" for the "2025 Symposium on Hydro-climate and Climate Change (Watershed)" session at the EWRI conference in Anchorage, AK, 2025. [09/18/2024]
