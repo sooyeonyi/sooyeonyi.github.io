@@ -17,7 +17,7 @@ Open to residents, professionals, and advocates interested in water management i
 As a course coordinator, I assist with developing course materials, organizing discussions, and coordinating logistics to ensure the effective delivery of the course content.
 
 ### [University of California Water Academy](https://live-coeqwal-ca.pantheon.berkeley.edu/uc-water-academy/) - _UC Berkeley_
-Co-Instructor (Spring, 2024)
+Co-Instructor (Spring, 2024), (Winter, 2025)
 *	**Course Description**:
 This course covers the historical, scientific, legal, and institutional aspects of water management in California, focusing on challenges like water provision for agriculture, urban areas, and ecosystems. The course included a week-long field tour, where we explored major water infrastructure sites such as Yosemite NP, Hetch Hetchy Reservoir, the Central Valley, and the Sacramento-San Francisco Bay Delta, along with a 3-day rafting trip on the Tuolumne River.
 * **Audience**:
