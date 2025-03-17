@@ -13,6 +13,7 @@ author_profile: true
 * Serving as a co-chair for the 2025 Berkeley Postdoctoral Association Diversity, Equity, and Inclusion group.
 
 ### New publication:
+* Accepted for publication in Journal of Hydroinformatics: "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [03/17/2025]
 * Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
 * Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 * Published a journal article titled "[Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea](https://doi.org/10.1029/2022WR032779)" in _Water Resources Research_. [05/06/2024]
@@ -23,7 +24,6 @@ author_profile: true
 * Under review, a manuscript titled "Developing resilient reservoir system operations: A simulation approach incorporating rule curve" by the _Water Resources Management_ [1/9/2025]
 * Under review, a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" by the _Hydrology and Earth System Sciences_. [11/03/2024]
 * Under review, a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_, now under second-round review. [10/09/2024]
-* Under review, a manuscript titled "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [08/13/2024]
 
 ### Education:
 * Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
