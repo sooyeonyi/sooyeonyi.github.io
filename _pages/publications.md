@@ -17,11 +17,12 @@ author_profile: true
   7. Choi, Y., Ji, J., Lee, E., Lee, S., **Yi, S.**, & Yi, J. (2023). Developing Optimal Reservoir Rule Curve for Hydropower Reservoir with an add-on Water Supply Function Using Improved Grey Wolf Optimizer. _Water Resources Management_. [https://doi.org/10.1007/s11269-023-03478-0](https://doi.org/10.1007/s11269-023-03478-0) 
   8. Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., **Yi, S.**, & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. _Water_, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
   9. **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In _Water Resources Management_. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
-  10. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332) 
+  10. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332)
+  11. Lee, E., Yi, S., Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. (2025) Development of reservoir operation model determining the pre-release strategy for the flood events. Journal of Hydroinformatics. [http://doi.org/10.2166/hydro.2025.262](https://github.com/user-attachments/assets/83acc10d-ded3-4c7a-9be9-4c00a8ed3b84)
+
 
 ### Journal Paper (Under Second Round of Review)
   1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
-  2.	Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_.
      
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
