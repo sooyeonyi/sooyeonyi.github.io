@@ -9,7 +9,6 @@ author_profile: true
 
 ### Upcoming Event:
 * Presenting at the EGU conference in Vienna, Austria (04/27–05/02/2025).
-* Serving as a co-chair for the 2025 AGU Hydro-JDEI group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
 * Serving as a co-chair for the 2025 Berkeley Postdoctoral Association Diversity, Equity, and Inclusion group.
 
 ### New publication:
@@ -39,6 +38,7 @@ author_profile: true
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
 
 ### Conference:
+* Served as a co-chair for the 2025 AGU Hydro-JDEI group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
 * Submitted an abstract titled "Assessing Environmental Flows in the Central Valley Across Different Management Scenarios" for the EGU conference in Vienna, Austria, [04/27 - 05/02/2025]. 
 * Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
