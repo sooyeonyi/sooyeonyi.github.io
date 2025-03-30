@@ -29,7 +29,7 @@ Attending the American Geophysical Union (AGU) Conference in Washington, D.C. [1
 Organizing the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
 
 ### Publication submission:
-Under review, a manuscript titled "Integrated simulation model for coordinated reservoir system operation and drought response" bu the _Water Rsearch_ [11/12/2024]
+Under review, a manuscript titled "Integrated simulation model for coordinated reservoir system operation and drought response" by the _Water Rsearch_ [11/12/2024]
 ### New publication:
 Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
 ### Meeting:
