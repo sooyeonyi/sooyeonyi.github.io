@@ -8,11 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Event:
-* Presenting at the EGU conference in Vienna, Austria (04/27–05/02/2025).
-* Serving as a co-chair for the 2025 Berkeley Postdoctoral Association Diversity, Equity, and Inclusion group.
+
+
 
 ### New publication:
-* Accepted for publication in Journal of Hydroinformatics: "Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events" to the _Journal of Hydroinformatics_. [03/17/2025]
+* Accepted for publication in Water Resources Management: “Developing resilient reservoir system operations: A simulation approach incorporating rule curve” to the Water Resources Management. [06/02/2025]
+* Publisehd a journal article titled "[Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events](https://doi.org/10.2166/hydro.2025.262)" in _Journal of Hydroinformatics_. [03/17/2025]
 * Published a journal article titled "[Environmental Planning and the Evolution of Inter-Basin Water Transfers in the United States]( https://doi.org/10.3389/fenvs.2024.1489917)" in _Frontiers in Environmental Science_. [11/11/2024]
 * Published a journal article titled "[Reservoir-based flood forecasting and warning: deep learning versus machine learning](https://doi.org/10.1007/s13201-024-02298-w)" in _Applied Water Science_. [10/15/2024]
 * Published a journal article titled "[Groundwater Level Forecasting Using Machine Learning: A Case Study of the Baekje Weir in the Four Major Rivers Project, South Korea](https://doi.org/10.1029/2022WR032779)" in _Water Resources Research_. [05/06/2024]
@@ -38,6 +39,7 @@ author_profile: true
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
 
 ### Conference:
+* Presented at the EGU conference in Vienna, Austria (04/27–05/02/2025).
 * Served as a co-chair for the 2025 AGU Hydro-JDEI group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
 * Submitted an abstract titled "Assessing Environmental Flows in the Central Valley Across Different Management Scenarios" for the EGU conference in Vienna, Austria, [04/27 - 05/02/2025]. 
 * Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
