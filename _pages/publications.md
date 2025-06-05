@@ -19,7 +19,7 @@ author_profile: true
   9. Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., **Yi, S.**, & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. _Water_, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
   10. **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In _Water Resources Management_. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
   11. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332)
-  12. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
+  12. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_. [In Press]
 
 ### Journal Paper (Under Second Round of Review)
   1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_. [Accepted]
