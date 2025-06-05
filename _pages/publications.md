@@ -19,15 +19,14 @@ author_profile: true
   9. Chae, H., Ji, J., Lee, E., Lee, S., Choi, Y., **Yi, S.**, & Yi, J. (2022). Assessment of activating reservoir emergency storage in climate-change-fueled extreme drought. _Water_, 14(20), 3242. [https://doi.org/10.3390/w14203242](https://doi.org/10.3390/w14203242) 
   10. **Yi, S.**, Kondolf, G. M., Sandoval-Solis, S., & Dale, L. (2022). Application of machine learning-based energy use forecasting for inter-basin water transfer project. In _Water Resources Management_. [https://doi.org/10.1007/s11269-022-03326-7](https://doi.org/10.1007/s11269-022-03326-7) 
   11. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332)
-
+  12. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
 
 ### Journal Paper (Under Second Round of Review)
-  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_.
+  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_. [Accepted]
      
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
-  2.	Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_.
-  3.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. Journal of Hydrology: Regioanl Studies.
+  2.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. Journal of Hydrology: Regioanl Studies.
 
 ### Journal paper (Preparation)
   1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
