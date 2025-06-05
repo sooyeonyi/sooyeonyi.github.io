@@ -40,7 +40,7 @@ author_profile: true
 
 ### Conference:
 * Presented at the EGU conference in Vienna, Austria (04/27–05/02/2025).
-* Served as a co-chair for the 2025 AGU Hydro-JDEI group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
+* Served as a co-chair for the 2025 AGU Hydro group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
 * Submitted an abstract titled "Assessing Environmental Flows in the Central Valley Across Different Management Scenarios" for the EGU conference in Vienna, Austria, [04/27 - 05/02/2025]. 
 * Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
 * Presented at the [Bay-Delta Science Conference](https://www.baydeltascienceconference.com/_files/ugd/8ee68f_2031bd461ef342419eb6aea618286449.pdf). [10/02/2024]
@@ -50,7 +50,7 @@ author_profile: true
 * Submitted an abstract titled "Assessment of Environmental Flows Under Different Management Scenarios in the Central Valley" for the Biennial Bay-Delta Science Conference in Sacramento, CA, October 2024. [06/08/2024]
 
 ### Event:
-* Organized the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Diversity and Inclusion [11/14/2024]
+* Organized the Berkeley Postdoctoral Association (BPA) Welcome Event: Celebrating Culture and Community [11/14/2024]
 * Moderated the "Postdoc Alumni Career Panel" event as part of the "Berkeley Postdoctoral Appreciation Week (NPAW)." [09/20/2024]
 * Participated in the Berkeley Postdoctoral Association board meeting to finalize the budget for 2024–2025. [09/17/2024]
 
