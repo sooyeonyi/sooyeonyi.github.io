@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Journal Paper (Published)
-  1. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_. [https://doi.org/10.1007/s11269-025-04280-w](https://doi.org/10.1007/s11269-025-04280-w)
+  1. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. (2025) Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_. [https://doi.org/10.1007/s11269-025-04280-w](https://doi.org/10.1007/s11269-025-04280-w)
   2. Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. (2025) Development of reservoir operation model determining the pre-release strategy for the flood events. Journal of Hydroinformatics. [http://doi.org/10.2166/hydro.2025.262](https://github.com/user-attachments/assets/83acc10d-ded3-4c7a-9be9-4c00a8ed3b84)
   3. **Yi, S.**, Kondolf, G.M. (2024). Environmental planning and the evolution of inter-basin water transfers in the United States. Front. Environ. Sci. 12:1489917. [https://doi.org/10.3389/fenvs.2024.1489917](https://doi.org/10.3389/fenvs.2024.1489917)    
   4. **Yi, S.**, Yi, J. (2024). Reservoir-based flood forecasting and warning: deep learning versus machine learning. _Appl Water Sci_ 14, 237. [https://doi.org/10.1007/s13201-024-02298-w](https://doi.org/10.1007/s13201-024-02298-w)
