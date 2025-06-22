@@ -21,6 +21,7 @@ author_profile: true
 * Published a journal article titled "[Development of an Optimal Water Allocation Model for Reservoir System Operation](https://doi.org/10.3390/w15203555)" in _Water_. [10/12/2023]
 
 ### Publication submission:
+* Under review, a manuscript titled "Analysis of water supply contribution from a hydropower generation reservoir. Water Resoruces Management" by the _Water Resources Management_. [06/21/2025]
 * Under review, a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" by the _Hydrology and Earth System Sciences_. [11/03/2024]
 * Under review, a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_, now under second-round review. [10/09/2024]
 
