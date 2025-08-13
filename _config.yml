@@ -20,18 +20,14 @@ repository               : "https://sooyeonyi.github.io/"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Sooyeon Yi, Ph.D."
-  Title: "Postdoctoral Researcher, UC Berkeley (Present)<br>Incoming Assistant Professor of Hydrology, CSU Chico (Starting Jan 2026)"
-  bio              : |
-    Postdoctoral Researcher at UC Berkeley
-    Incoming Assistant Professor of Hydrology at California State University, Chico (Jan 2026)
-  location         : "Berkeley, CA, USA"
-  employer         : "UC Berkeley"
-  uri              : # URL
-  email            : "sooyeon@berkeley.edu"
-
+  avatar   : "profile.jpg"
+  name     : "Sooyeon Yi, Ph.D."
+  title    : "Postdoctoral Researcher, UC Berkeley (Present)<br>Incoming Assistant Professor of Hydrology, CSU Chico (Starting Jan 2026)"
+  bio      : "Postdoctoral Researcher at UC Berkeley<br>Incoming Assistant Professor of Hydrology at California State University, Chico (Jan 2026)"
+  location : "Berkeley, CA, USA"
+  employer : "UC Berkeley"
+  uri      :
+  email    : "sooyeon@berkeley.edu"
 
 
   # Academic websites
