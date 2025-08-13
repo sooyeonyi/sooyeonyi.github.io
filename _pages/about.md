@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Welcome to Sooyeon's website"
+title: "Welcome to the WISE Lab"
 author_profile: true
 seo:
-  title: "Welcome to Sooyeon's website"   # jekyll-seo-tag override
+  title: "Welcome to the WISE Lab"
 ---
 
 
 I am starting as an **Assistant Professor of Hydrology** in the **Department of Earth and Environmental Sciences (ERTH)** at **California State University, Chico** in **January 2026**.
+
+**_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
+
 
 I will be teaching two courses in Spring 2026:
 * Introduction to Spatial Analysis for Environmental Sciences
