@@ -13,8 +13,7 @@ I will be teaching two courses in Spring 2026:
 * Introduction to Spatial Analysis for Environmental Sciences
 * Introduction to Climate Change
 
-I am actively **recruiting undergraduate and M.S. students** to **join my research group in Spring 2026**. 
-At least one or two funded projects will be available — stay tuned for announcements.
+I am actively **recruiting undergraduate and M.S. students** to join my research group in **Spring 2026**. At least one or two funded projects will be available — **stay tuned for announcements**!! If you are interested, please contact me using the information below.
 
 Contact: sooyeon@berkeley.edu | syi4@csuchico.edu
 
