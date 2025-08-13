@@ -8,19 +8,15 @@ seo:
 
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
-*Part of the **Department of Earth and Environmental Sciences (ERTH)**, **College of Natural Sciences**, **California State University, Chico**.*  <!-- cites official names -->
-
-> We are **recruiting** undergraduate and M.S. students for **Spring 2026** (1–2 funded projects anticipated).
-{: .notice--primary}
+**Department of Earth and Environmental Sciences (ERTH)**  
+**College of Natural Sciences**  
+**California State University, Chico**
 
 ### How to Join WISE Lab (Spring 2026)
 Please email **sooyeon@berkeley.edu** with:
 - **Subject:** WISE Lab Interest (Spring 2026)
 - **Attachment:** 1-page **CV** (PDF)
-- **In the email (1 short paragraph):**
-  - Your **research interests** (environmental hydrology / water resources management)
-  - **Relevant skills or coursework** (e.g., GIS, coding, stats, hydrology)
-  - Your **program/major & year** (if at Chico State)
+- **In one short paragraph:** your research interests (environmental hydrology / water resources), relevant skills or coursework (e.g., GIS, coding, statistics, hydrology), and your availability (start date; credits vs. paid).
 
 I’ll follow up about fit, next steps, and potential funded positions.
 
