@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale          : "en-US"
-title: ""            # prevents prefixing
-title_separator: ""  # no colon/pipe added
-name: "Sooyeon Yi"
-description     : &description "Postdoctoral Researcher (UC Berkeley); Incoming Assistant Professor of Hydrology (CSU Chico, Jan 2026)"
+title           : ""                      # let pages control <title>
+title_separator : ""                      # no ":" or "|" added
+masthead_title  : "WISE Lab"              # header brand text (links to /)
+name            : "Sooyeon Yi"
+description     : "Postdoctoral Researcher (UC Berkeley); Incoming Assistant Professor of Hydrology (CSU Chico, Jan 2026); PI, WISE Lab (Water, Infrastructure, Sustainability, and Environment)"
 url             : "https://sooyeonyi.github.io"
-baseurl         : ""                   # no subpath
-repository      : "sooyeonyi/sooyeonyi.github.io"   # use owner/repo, not a URL
-
+baseurl         : ""                      # no subpath
+repository      : "sooyeonyi/sooyeonyi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
