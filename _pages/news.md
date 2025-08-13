@@ -56,3 +56,4 @@ author_profile: true
 
 ### Career:
 * Started a postdoctoral researcher position with Prof. Ted Grantham in the ESPM Department at UC Berkeley. [03/01/2024]
+* Incoming Assistant Professor of Hydrology in the Department of Earth and Environmental Sciences (ERTH) at California State University, Chico, Water, Infrastructure, Sustainability, and Environment (WISE) Lab. [01/01/2026]
