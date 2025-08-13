@@ -48,9 +48,5 @@ Interested in environmental hydrology and water resources management?
 - **Education:** Ph.D. (Hydrology & Water Resources Management), UC Berkeley; B.S./M.S., UC Davis.  
 [Explore projects →](/research/){: .btn }
 
-### News
-- **Jan 2026:** Starting as Assistant Professor of Hydrology, ERTH, CSU Chico.  
-- **Spring 2026:** Recruiting UG/M.S. students for WISE Lab projects.
-
 ### Contact
 **Email:** [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) \| [syi4@csuchico.edu](mailto:syi4@csuchico.edu)
