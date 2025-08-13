@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+### Introduction to Spatial Analysis for Environmental Sciences - _CSU Chico (ERTH)_
+Instructor (Spring, 2026)
+* **Course Description**: Foundational GIS for environmental applications—spatial data models (vector/raster), coordinate systems and projections, data acquisition/cleaning, cartography, and core spatial analyses (overlay, proximity, terrain). Hands-on labs using GIS tools with case studies from California watersheds.
+* **Audience**: Broad undergraduate audience across ERTH/GEOG/ENVS and related majors; no prerequisites.
+* **My Role**: Instructor—design syllabus and labs, lead lectures/discussions, and mentor team projects using open environmental datasets.
+
+### Introduction to Climate Change - _CSU Chico (ERTH)_
+Instructor (Spring, 2026)
+* **Course Description**: Scientific basis of climate change—energy balance, greenhouse gases, observations and models, scenarios—and impacts on water resources, extreme events, ecosystems, and society. Emphasis on mitigation and adaptation, quantitative labs, and clear communication.
+* **Audience**: Broad undergraduate audience across ERTH/GEOG/ENVS and related majors; no prerequisites.
+* **My Role**: Instructor—deliver lectures and labs, guide discussions and a term project focused on California-relevant cases.
+
 ### [California Water Policy and Management](https://watermanagement.ucdavis.edu/californiawatercourse) - _UC Davis_
 Course Coordinator (Fall, 2024 - Summer, 2025)
 *	**Course Description**:
