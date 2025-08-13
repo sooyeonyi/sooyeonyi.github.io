@@ -8,8 +8,8 @@ seo:
 
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
-Department of Earth and Environmental Sciences (ERTH)
-College of Natural Sciences
+Department of Earth and Environmental Sciences (ERTH)  
+College of Natural Sciences  
 California State University, Chico
 
 ### How to Join WISE Lab (Spring 2026)
