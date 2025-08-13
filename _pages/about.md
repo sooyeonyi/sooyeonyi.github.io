@@ -2,10 +2,10 @@
 permalink: /
 title: "Welcome to Sooyeon's website"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+seo:
+  title: "Welcome to Sooyeon's website"   # jekyll-seo-tag override
 ---
+
 
 I am starting as an **Assistant Professor of Hydrology** in the **Department of Earth and Environmental Sciences (ERTH)** at **California State University, Chico** in **January 2026**.
 
