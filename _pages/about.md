@@ -11,8 +11,8 @@ seo:
 I am starting as an **Assistant Professor of Hydrology** in the **Department of Earth and Environmental Sciences (ERTH)** at **California State University, Chico** in **January 2026**.
 
 I will be teaching two courses in Spring 2026:
-* Introduction to Spatial Analysis for Environmental Sciences
-* Introduction to Climate Change
+* Introduction to Spatial Analysis for Environmental Sciences (ERTH 660)
+* Introduction to Climate Change (ERTH 104)
 
 I am actively **recruiting undergraduate and M.S. students** to join my research group in **Spring 2026**. At least one or two funded projects will be available — **stay tuned for announcements**!! If you are interested, please contact me using the information below.
 
