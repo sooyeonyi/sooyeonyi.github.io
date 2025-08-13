@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Welcome to the WISE Lab"
+title: "WISE Lab"
 author_profile: true
 seo:
-  title: "Welcome to the WISE Lab"
+  title: "WISE Lab"
 ---
+
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
 
