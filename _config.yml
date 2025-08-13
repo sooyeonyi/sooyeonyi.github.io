@@ -23,12 +23,13 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Sooyeon Yi, Ph.D."
-  Title            : "Postdoctoral Researcher"  
-  bio              : "Postdoctoral Researcher"
+  Title            : "Postdoctoral Researcher, UC Berkeley (Present) | Assistant Professor of Hydrology, CSU Chico (Starting Jan 2026)"  
+  bio              : "Postdoctoral Researcher at UC Berkeley; Incoming Assistant Professor of Hydrology at California State University, Chico (Jan 2026)"
   location         : "Berkeley, CA, USA"
   employer         : "UC Berkeley"
   uri              : # URL
-  email            : "sooyeon@berkeley.edu" 
+  email            : "sooyeon@berkeley.edu"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
