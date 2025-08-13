@@ -44,14 +44,16 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
-      {# ... keep the rest of your links exactly as you had them ... #}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
-      {% endif %}
-      <!-- etc. -->
+{% comment %}
+Keep the rest of your links as you had them (add/remove list items below).
+{% endcomment %}
+{% if author.googlescholar %}
+  <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+{% endif %}
+{% if author.orcid %}
+  <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+{% endif %}
+<!-- Add more items (ResearchGate, GitHub, etc.) as needed -->
     </ul>
   </div>
 </div>
