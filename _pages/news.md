@@ -12,8 +12,8 @@ author_profile: true
 
 
 ### New publication:
-* Publisehd a journal article titeld “[Developing resilient reservoir system operations: A simulation approach incorporating rule curve](https://doi.org/10.1007/s11269-025-04280-w)” in _Water Resources Management_. [06/17/2025] 
-* Publisehd a journal article titled "[Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events](https://doi.org/10.2166/hydro.2025.262)" in _Journal of Hydroinformatics_. [03/17/2025]
+* Published a journal article titeld “[Developing resilient reservoir system operations: A simulation approach incorporating rule curve](https://doi.org/10.1007/s11269-025-04280-w)” in _Water Resources Management_. [06/17/2025] 
+* Published a journal article titled "[Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events](https://doi.org/10.2166/hydro.2025.262)" in _Journal of Hydroinformatics_. [03/17/2025]
 
 ### Publication submission:
 * Under review, a manuscript titled "Analysis of water supply contribution from a hydropower generation reservoir. Water Resoruces Management" by the _Water Resources Management_. [06/21/2025]
