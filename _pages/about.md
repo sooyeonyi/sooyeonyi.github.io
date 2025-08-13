@@ -15,7 +15,7 @@ I will be teaching two courses in Spring 2026:
 
 I am actively **recruiting undergraduate and M.S. students** to join my research group in **Spring 2026**. At least one or two funded projects will be available — **stay tuned for announcements**!! If you are interested, please contact me using the information below.
 
-Contact: sooyeon@berkeley.edu | syi4@csuchico.edu
+**Contact:** [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu), [syi4@csuchico.edu](mailto:syi4@csuchico.edu)
 
 
 * My research passion lies in addressing critical issues at the intersection of water, environment, and humans, particularly in the face of increasingly frequent and extreme weather events like floods and droughts. I am deeply committed to advancing knowledge and implementing solutions to water challenges that have regional, national, and global impact in this vital field.
