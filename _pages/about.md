@@ -4,23 +4,53 @@ title: "WISE Lab"
 author_profile: true
 seo:
   title: "WISE Lab"
+
+# Feature cards under the hero
+feature_row:
+  - title: "Join the Lab"
+    excerpt: "Recruiting undergraduate and M.S. students for **Spring 2026**; 1–2 funded projects anticipated."
+    url: "/contact/"
+    btn_label: "How to apply"
+    btn_class: "btn--primary"
+  - title: "Courses (Spring 2026)"
+    excerpt: "**ERTH 660** – Intro to Spatial Analysis for Environmental Sciences<br>**ERTH 104** – Intro to Climate Change"
+    url: "/teaching/"
+    btn_label: "See teaching"
+    btn_class: "btn"
+  - title: "Research"
+    excerpt: "Environmental hydrology, water resources management, environmental flows, and climate adaptation."
+    url: "/research/"
+    btn_label: "See projects"
+    btn_class: "btn"
 ---
 
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
+> We are **recruiting** for **Spring 2026** (UG + M.S.). 1–2 funded projects anticipated — see how to get involved below.
+{: .notice--primary}
 
-I am starting as an **Assistant Professor of Hydrology** in the **Department of Earth and Environmental Sciences (ERTH)** at **California State University, Chico** in **January 2026**.
+{% include feature_row %}
 
-I will be teaching two courses in Spring 2026:
-* Introduction to Spatial Analysis for Environmental Sciences (ERTH 660)
-* Introduction to Climate Change (ERTH 104)
+### Join the Lab
+Interested in environmental hydrology and water resources management?  
+[Email your CV and 5–6 sentence interest statement](/contact/){: .btn .btn--primary }  
+[What we study](/research/){: .btn }  [Courses I teach](/teaching/){: .btn }
 
-I am actively **recruiting undergraduate and M.S. students** to join my research group in **Spring 2026**. At least one or two funded projects will be available — **stay tuned for announcements**!! If you are interested, please contact me using the information below.
+### Teaching (Spring 2026)
+- **ERTH 660 — Introduction to Spatial Analysis for Environmental Sciences**  
+- **ERTH 104 — Introduction to Climate Change**  
+[Details & syllabi →](/teaching/){: .btn }
 
-**Contact:** [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) \| [syi4@csuchico.edu](mailto:syi4@csuchico.edu)
+### Research Focus
+- **Focus:** Water–environment–society interactions—floods, droughts, climate adaptation.  
+- **Methods:** Physics-based models (e.g., WEAP, HEC-ResSim) + data-driven approaches (ML/DL).  
+- **Current role:** Postdoctoral researcher in Grantham’s Lab; member of Berkeley Freshwater; contributor to COEQWAL on environmental flows in California water management.  
+- **Education:** Ph.D. (Hydrology & Water Resources Management), UC Berkeley; B.S./M.S., UC Davis.  
+[Explore projects →](/research/){: .btn }
 
+### News
+- **Jan 2026:** Starting as Assistant Professor of Hydrology, ERTH, CSU Chico.  
+- **Spring 2026:** Recruiting UG/M.S. students for WISE Lab projects.
 
-* My research passion lies in addressing critical issues at the intersection of water, environment, and humans, particularly in the face of increasingly frequent and extreme weather events like floods and droughts. I am deeply committed to advancing knowledge and implementing solutions to water challenges that have regional, national, and global impact in this vital field.
-* My approach involves identifying and modeling hydrologic changes—whether driven by human activity, climate shifts, or planetary factors—and developing solutions to water challenges using a combination of physics-based models (e.g., WEAP, HEC-ResSim) and data-driven techniques (e.g., machine learning and deep learning).
-* I am currently a postdoctoral researcher at [Grantham’s Lab](https://nature.berkeley.edu/granthamlab/)  and am part of [Berkeley Freshwater](https://nature.berkeley.edu/freshwater/), contributing to the Collaboratory for Equity in Water Allocations [COEQWAL](https://live-coeqwal-ca.pantheon.berkeley.edu/) project. In this role, I am developing modeling scenarios that integrate environmental flow needs into California’s water management strategies. I am also currently serving as a Community and Culture Committee Co-Chair at the [Berkeley Postdoctoral Association](https://postdoc.berkeley.edu/about-us).
-* I hold a Ph.D. in Environmental Planning with a focus on Hydrology and Water Resources Management from UC Berkeley. I also hold both a B.S. and an M.S. in Hydrology and Water Resources Management from UC Davis.
+### Contact
+**Email:** [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) \| [syi4@csuchico.edu](mailto:syi4@csuchico.edu)
