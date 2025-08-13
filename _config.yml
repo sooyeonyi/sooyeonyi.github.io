@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale          : "en-US"
-title           : ""                   # keep empty so pages use their own titles (e.g., "Welcome to Sooyeon's website")
-title_separator : ""                   # no ":" or "-" added between site and page titles
-name            : &name "Sooyeon Yi"   # used in metadata
+title: ""            # prevents prefixing
+title_separator: ""  # no colon/pipe added
+name: "Sooyeon Yi"
 description     : &description "Postdoctoral Researcher (UC Berkeley); Incoming Assistant Professor of Hydrology (CSU Chico, Jan 2026)"
 url             : "https://sooyeonyi.github.io"
 baseurl         : ""                   # no subpath
