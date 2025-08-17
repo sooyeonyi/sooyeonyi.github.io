@@ -6,7 +6,7 @@ seo:
   title: "WISE Lab"
 ---
 
-![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-right style="max-width:110px; margin-left:12px; margin-bottom:6px;"}
+![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:126px; margin-right:12px; margin-bottom:6px;"}
 
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
