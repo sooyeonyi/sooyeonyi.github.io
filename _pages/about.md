@@ -6,6 +6,8 @@ seo:
   title: "WISE Lab"
 ---
 
+![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-right style="max-width:110px; margin-left:12px; margin-bottom:6px;"}
+
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
 Department of Earth and Environmental Sciences (ERTH)  
