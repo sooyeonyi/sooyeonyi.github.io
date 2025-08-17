@@ -10,10 +10,10 @@ main:
     url: /news/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Publications"
+    url: /publications/  
   - title: "CV"
     url: /cv/
   - title: "Join Us"
