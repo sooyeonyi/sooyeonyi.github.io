@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "WISE Lab"
+title: ""
 author_profile: true
 seo:
-  title: "WISE Lab"
+  title: ""
 ---
 
 ![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:126px; margin-right:12px; margin-bottom:6px;"}
