@@ -6,17 +6,16 @@
 
 
 main:
+  - title: "News"
+    url: /news/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Join Us"
-    url: /join/
-  - title: "News"
-    url: /news/
   - title: "CV"
     url: /cv/
-
+  - title: "Join Us"
+    url: /join/
 
