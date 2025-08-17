@@ -11,7 +11,7 @@ locale          : "en-US"
 title           : ""                      # let pages control <title>
 title_separator : ""                      # no ":" or "|" added
 masthead_title  : "WISE Lab"              # header brand text (links to /)
-logo            : "logo3.png"     # path to your uploaded logo
+logo            : "/images/logo3.png"     # path to your uploaded logo
 name            : "Sooyeon Yi"
 description     : "Postdoctoral Researcher (UC Berkeley); Incoming Assistant Professor of Hydrology (CSU Chico, Jan 2026); PI, WISE Lab (Water, Infrastructure, Sustainability, and Environment)"
 url             : "https://sooyeonyi.github.io"
