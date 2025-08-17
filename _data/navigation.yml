@@ -6,6 +6,8 @@
 
 
 main:
+  - title: "Home"
+    url: /Home/
   - title: "News"
     url: /news/
   - title: "Research"
