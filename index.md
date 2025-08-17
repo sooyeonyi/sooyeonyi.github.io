@@ -1,5 +1,5 @@
 ---
 permalink: /
-layout: single
-title: "WISE Lab"
+redirect_to: /about/
+sitemap: false
 ---
