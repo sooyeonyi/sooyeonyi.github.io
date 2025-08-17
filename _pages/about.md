@@ -15,7 +15,7 @@ College of Natural Sciences
 California State University, Chico
 
 ### How to Join WISE Lab (Spring 2026)
-Please email **sooyeon@berkeley.edu** with:
+Please email [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) with:
 - **Subject:** WISE Lab Interest (Spring 2026)
 - **Attachment**:1-page CV (PDF)
 - **In one short paragraph:** your research interests (environmental hydrology / water resources), relevant skills or coursework (e.g., GIS, coding, statistics, hydrology), and your availability (start date; credits vs. paid).
