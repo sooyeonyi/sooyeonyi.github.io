@@ -7,18 +7,16 @@
 main:
   - title: "News"
     url: /news/
-
   - title: "CV"
     url: /cv/
-
   - title: "Research"
     url: /research/
-
   - title: "Publications"
     url: /publications/
-    
   - title: "Teaching"
     url: /teaching/
-
   - title: "Contact"
     url: /contact/
+  - title: "Join Us"
+    url: /join/
+
