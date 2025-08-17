@@ -55,13 +55,6 @@ form button { margin-top:1rem; cursor:pointer; border:0; background:#2b6cb0; col
 form button:hover { background:#225a99; }
 </style>
 
-### How to Join WISE Lab (Spring 2026)
-Please email [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) with:
-- **Subject:** WISE Lab Interest (Spring 2026)
-- **Attachment**:1-page CV (PDF)
-- **In one short paragraph:** your research interests (environmental hydrology / water resources), relevant skills or coursework (e.g., GIS, coding, statistics, hydrology), and your availability (start date; credits vs. paid).
-
-I’ll follow up about fit, next steps, and potential funded positions.
 
 ### Teaching (Spring 2026)
 - ERTH 660 — Introduction to Spatial Analysis for Environmental Sciences
