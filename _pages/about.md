@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: ""
-author_profile: true
-seo:
-  title: ""
+layout: single
+title: "About"
+permalink: /about/
 ---
+
 
 ![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:126px; margin-right:12px; margin-bottom:6px;"}
 
