@@ -7,7 +7,7 @@
 
 main:
   - title: "Home"
-    url: /
+    url: /about/
   - title: "News"
     url: /news/
   - title: "Research"
