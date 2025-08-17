@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:126px; margin-right:12px; margin-bottom:6px;"}
+![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:252px; margin-right:12px; margin-bottom:6px;"}
 
 **_Water, Infrastructure, Sustainability, and Environment (WISE) Lab_**
 
