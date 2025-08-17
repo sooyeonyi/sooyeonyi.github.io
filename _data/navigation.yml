@@ -11,10 +11,10 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Publications"
+    url: /publications/
   - title: "Join Us"
     url: /join/
 
