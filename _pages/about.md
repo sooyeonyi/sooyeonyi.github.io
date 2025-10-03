@@ -1,7 +1,8 @@
 ---
-layout: single
-title: ""
+layout: redirect
+title: "About"
 permalink: /about/
+redirect_to: /
 ---
 
 
