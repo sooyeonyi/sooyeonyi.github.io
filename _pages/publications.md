@@ -1,9 +1,12 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<!-- You can list highlights here or link to the auto-generated collection pages. -->
+See selected publications below. (Add content or include links.)
 
 {% include base_path %}
 
