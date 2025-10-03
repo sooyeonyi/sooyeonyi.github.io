@@ -1,11 +1,12 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+[Download my CV (PDF)](/files/CV_Sooyeon_Yi_09-2024.pdf)
+
 
 {% include base_path %}
 
