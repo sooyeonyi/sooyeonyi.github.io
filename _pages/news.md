@@ -1,12 +1,9 @@
 ---
-layout: archive
-title: "News"
+layout: single
+title: ""News"
 permalink: /news/
 author_profile: true
-entries_layout: list
-show_excerpts: false
 ---
-
 
 {% include base_path %}
 
