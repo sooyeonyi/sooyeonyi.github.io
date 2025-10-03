@@ -1,0 +1,7 @@
+/* Hide the title box */
+.page__title { display: none; }
+
+/* Reduce extra space where title was */
+.page .page__content { 
+  margin-top: 0.25rem; 
+}
