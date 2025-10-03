@@ -1,17 +1,12 @@
 ---
-layout: single
+layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+entries_layout: list
+show_excerpts: false
 ---
 
-<!-- Optional intro -->
-Lab updates and announcements.
-
-<!-- Optional: auto-list posts (if you add any in _posts/) -->
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%b %d, %Y" }}</small>
-{% endfor %}
 
 {% include base_path %}
 
