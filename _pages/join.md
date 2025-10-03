@@ -1,9 +1,12 @@
 ---
-permalink: /join/
-title: "Join Us"
 layout: single
-author_profile: false   # set to true if you want the sidebar here
+title: "Join Us"
+permalink: /join/
+author_profile: true
 ---
+
+Prospective students and collaborators: how to get in touch, openings, etc.
+
 
 ### About WISE Lab
 The **Water, Infrastructure, Sustainability, and Environment (WISE) Lab** studies environmental hydrology and water resources management with emphasis on environmental flows, sustainable allocation, and climate adaptation. We combine physics-based models (e.g., WEAP, HEC-ResSim), GIS/remote sensing, and data-driven methods (ML/DL) to understand change and support decision-making.
