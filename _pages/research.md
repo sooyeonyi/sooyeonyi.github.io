@@ -1,9 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+Your short research overview here.
 
 {% include base_path %}
 
