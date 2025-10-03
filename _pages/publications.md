@@ -25,9 +25,13 @@ author_profile: true
   1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_. [Accepted]
      
 ### Journal Paper (Under First Round of Review)
-  1.	**Yi, S.**, Yoon, J., Lee., C., Lee., S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Hydrology and Earth System Sciences_.
-  2.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Analysis of water supply contribution from a hydropower generation reservoir. Water Resoruces Management.
-
+  1.	**Yi, S.**, Yoon, J., Lee, C., Lee, Lee, S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Journal of Hydrology: Regional Study_.
+  2.	Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Estimation of minimum inflow time series under reservoir system operation.
+  3.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Analysis of water supply contribution from a hydropower generation reservoir. _Journal of Water Resources Planning and Management_.
+  4.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. _Water. Resoruces Management_.
+  5.	Lee, E., Ji, J., Lee, S., **Yi, S.**, Yoon, J., , & Yi, J. Eunkyung Hydropower Efficiency and Sustainability Index: A New Framework for Evaluating Hydropower Performance. _Applied Energy_.
+  6.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Assessing Downstream Impacts of Multipurpose Operation. _Water_.
+   
 ### Journal paper (Preparation)
   1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
   2.	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
