@@ -1,9 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+Courses taught / mentoring / materials.
 
 {% include base_path %}
 
