@@ -29,9 +29,9 @@ See selected publications below.
      
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee, C., Lee, Lee, S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Journal of Hydrology: Regional Study_.
-  2.	Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Estimation of minimum inflow time series under reservoir system operation.
+  2.	Lee, C., Lee, S., **Yi, S.**, Ji, J., Lee, E., Yoon, J., Yi, J. Estimation of minimum inflow time series under reservoir system operation. _Journal of Water and Climate Change_.
   3.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Analysis of water supply contribution from a hydropower generation reservoir. _Journal of Water Resources Planning and Management_.
-  4.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. _Water. Resoruces Management_.
+  4.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. _Water Resoruces Management_.
   5.	Lee, E., Ji, J., Lee, S., **Yi, S.**, Yoon, J., , & Yi, J. Eunkyung Hydropower Efficiency and Sustainability Index: A New Framework for Evaluating Hydropower Performance. _Applied Energy_.
   6.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Assessing Downstream Impacts of Multipurpose Operation. _Water_.
    
@@ -49,9 +49,9 @@ See selected publications below.
 * **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019.
 
 ### Conferences
-* **Yi, S.**, Stanford, B., Yarnell, S., Lindsay, M., Grantham, T. Evaluating environmental flow dynamics in the Central Valley Under varying management scenarios. (**Oral**) 7th International Symposium on River Science, TBD 2025, Davis, California. 
-* **Yi, S.**, Stanford, B., Yarnell, S., Lindsay, M., Grantham, T. Environmental Flows Use Case – Assessing functional flow regimes as operational alternatives for the Central Valley. (**Oral**) California Water and Environmental Modeling Forum (CWEMF), TBD 2025, Folsom, California.
-* **Yi, S.**, Stanford, B., Yarnell, S., Lindsay, M., Grantham, T. Assessing Environmental Flows in the Central Valley Across Different Management Scenarios. (**Oral**) European Geosciences Union (EGU), 4/27-5/2/2025, Vienna, Austria.
+* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Evaluating environmental flow dynamics in the Central Valley Under varying management scenarios. (**Oral**) 7th International Symposium on River Science, TBD 2025, Davis, California. 
+* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Environmental Flows Use Case – Assessing functional flow regimes as operational alternatives for the Central Valley. (**Oral**) California Water and Environmental Modeling Forum (CWEMF), TBD 2025, Folsom, California.
+* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Assessing Environmental Flows in the Central Valley Across Different Management Scenarios. (**Oral**) European Geosciences Union (EGU), 4/27-5/2/2025, Vienna, Austria.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating environmental flows in the Central Valley under various management scenario. (**Poster**) AGU 12/9-13/2024, San Francisco, California.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Assessment of environmental flows in the Central Valley under different management scenarios. (**Oral**) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
 * Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Lee, C., Yi, J. Enhancing flood control and water management efficiency: A case study in South Korea. (**Oral**) International Conference on Water Pollution and Treatment, 7/21-23/2024, Berlin, Germany.
