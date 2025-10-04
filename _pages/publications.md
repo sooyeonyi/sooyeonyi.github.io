@@ -49,8 +49,8 @@ See selected publications below.
 * **Yi, S.**, Yi, J. Water Resources Management in South Korea. Chapter 10, Integrated Water Resource Management: Cases from Africa, Asia, Australia, Latin America and USA, July 2019.
 
 ### Conferences
-* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Evaluating environmental flow dynamics in the Central Valley Under varying management scenarios. (**Oral**) 7th International Symposium on River Science, TBD 2025, Davis, California. 
-* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Environmental Flows Use Case – Assessing functional flow regimes as operational alternatives for the Central Valley. (**Oral**) California Water and Environmental Modeling Forum (CWEMF), TBD 2025, Folsom, California.
+* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Evaluating environmental flow dynamics in the Central Valley Under varying management scenarios. (**Oral**) 7th International Symposium on River Science, 10/6-9/2025, Davis, California. 
+* **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Environmental Flows Use Case – Assessing functional flow regimes as operational alternatives for the Central Valley. (**Oral**) California Water and Environmental Modeling Forum (CWEMF), 5/12-14/2025, Folsom, California.
 * **Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Grantham, T. Assessing Environmental Flows in the Central Valley Across Different Management Scenarios. (**Oral**) European Geosciences Union (EGU), 4/27-5/2/2025, Vienna, Austria.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating environmental flows in the Central Valley under various management scenario. (**Poster**) AGU 12/9-13/2024, San Francisco, California.
 * **Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Assessment of environmental flows in the Central Valley under different management scenarios. (**Oral**) Biennial Bay-Delta Science Conference, 9/30 – 10/2/ 2024, Sacramento, California.
