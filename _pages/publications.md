@@ -36,7 +36,7 @@ See selected publications below.
   6.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Assessing Downstream Impacts of Multipurpose Operation. _Water_.
    
 ### Journal paper (Preparation)
-  1.	**Yi, S.**, Stanford, B., Yarnell, S., Zimmerman, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
+  1.	**Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Gilbert, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
   2.	**Yi, S.**, Sandoval-Solis, S. Reservoir water balance simulation model using machine learning and deep learning algorithms. _Journal of Hydrology_.
   3.	Lee, E., Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. Enhancing flood control and water management efficiency. _Scientific Report_.
   
