@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Your short research overview here.
+Reserach interests and agenda below.
 
 {% include base_path %}
 
