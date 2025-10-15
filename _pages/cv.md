@@ -5,9 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](/files/CV_Sooyeon_Yi_09-2024.pdf)
-
-
 {% include base_path %}
 
 <!-- Please find my full CV here: [CV_Sooyeon_09-2024](http://sooyeonyi.github.io/files/CV_Sooyeon_Yi_09-2024.pdf) -->
