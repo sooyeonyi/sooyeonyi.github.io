@@ -33,7 +33,7 @@ See selected publications below.
   3.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Analysis of water supply contribution from a hydropower generation reservoir. _Journal of Water Resources Planning and Management_.
   4.	Karimizadeh, K., **Yi, S.**, Yi, J. Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends. _Water Resoruces Management_.
   5.	Lee, E., Ji, J., Lee, S., **Yi, S.**, Yoon, J., , & Yi, J. Eunkyung Hydropower Efficiency and Sustainability Index: A New Framework for Evaluating Hydropower Performance. _Applied Energy_.
-  6.	Yoon, J., Ji, J., Lee, E., **Yi, S.**, Lee, S., Yi, J. Assessing Downstream Impacts of Multipurpose Operation. _Water_.
+  6.	Yoon, **Yi, S.**, J., Ji, J., Lee, E., Lee, S., Yi, J. Assessing Downstream Impacts of Multipurpose Operation. _Water_.
    
 ### Journal paper (Preparation)
   1.	**Yi, S.**, Stanford, B., Yarnell, S., Murdoch, L., Gilbert, J., Grantham, T. Evaluating Environmental Flows in the Central Valley Under Various Management Scenario. _Journal of Environmental Sciences_. 
