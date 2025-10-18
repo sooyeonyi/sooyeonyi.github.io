@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-### Upcoming Event:
-
-
+### Professional Update:
+* Invited to serve as Guest Editor for the Special Issue “Application of Hydrological Modeling in Water Resources Management,” *Water* (MDPI).  
+* Organized the conference session “Advancing Environmental Flow Management: Holistic Approaches for Sustaining Aquatic Ecosystems” at the Society for Freshwater Science Annual Meeting (Spokane, WA, May 2026).
 
 ### Recent publication:
 * Published a journal article titeld “[Developing resilient reservoir system operations: A simulation approach incorporating rule curve](https://doi.org/10.1007/s11269-025-04280-w)” in _Water Resources Management_. [06/17/2025] 
@@ -28,6 +28,6 @@ author_profile: true
 * Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [01/21/2025]
 
 ### Conference:
-* Presented at the EGU conference in Vienna, Austria (04/27–05/02/2025).
-* Served as a co-chair for the 2025 AGU Hydro group at the AGU conference in New Orleans, Louisiana (12/15–12/19/2025).
+* Presented at the EGU conference in Vienna, Austria [04/27–05/02/2025].
+* Served as a co-chair for the 2025 AGU Hydro group at the AGU conference in New Orleans, Louisiana [12/15–12/19/2025].
 * Submitted an abstract titled "Assessing Environmental Flows in the Central Valley Across Different Management Scenarios" for the EGU conference in Vienna, Austria, [04/27 - 05/02/2025]. 
