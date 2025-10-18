@@ -18,11 +18,11 @@ author_profile: true
 ### Publication submission:
 * Under review, a manuscript titled "Hydropower Efficiency and Sustainability Index: A New Framework for Evaluating Hydropower Performance". _Applied Energy_. [10/15/2025]
 * Under review, a manuscript titled "Assessing Downstream Impacts of Multipurpose Operation". _Water_. [10/14/2025]
-* Under review, a manuscript titled "Estimation of minimum inflow time series under reservoir system operation". _Journal of Water and Climate Change_.[10/14/2025]
-* Under review, a manuscript titled "Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends". _Water Resoruces Management_.[09/30/2025]
-* Under review, a manuscript titled "Analysis of water supply contribution from a hydropower generation reservoir". _Journal of Water Resources Planning and Management_.[08/04/2025]
+* Under review, a manuscript titled "Estimation of minimum inflow time series under reservoir system operation". _Journal of Water and Climate Change_. [10/14/2025]
+* Under review, a manuscript titled "Performance analysis of climate models (CMIP6) in simulating climate parameters and projection of climatic and hydrological parameters’ trends". _Water Resoruces Management_. [09/30/2025]
+* Under review, a manuscript titled "Analysis of water supply contribution from a hydropower generation reservoir". _Journal of Water Resources Planning and Management_. [08/04/2025]
 * Under review, a manuscript titled "Machine Learning and Deep Learning Approaches for Predicting Flow Duration Curve in Ungauged Basins" by the _Hydrology and Earth System Sciences_. [11/03/2024]
-* Under review, a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_.[10/09/2024]
+* Under review, a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_. [10/09/2024]
 
 ### Education:
 * Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [01/21/2025]
