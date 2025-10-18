@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+Recent updates, announcements, and highlights from my research and professional activities.
 
 {% include base_path %}
 
