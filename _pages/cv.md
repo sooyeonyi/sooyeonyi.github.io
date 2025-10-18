@@ -14,7 +14,9 @@ author_profile: true
 * M.S. in Hydrology and Water Resrouces Management, _UC Davis_ (2016)
 * B.S. in Hydrology and Water Resrouces Management, _UC Davis_ (2013)  
 
-### Research Positions
+### Academic Appointments
+* Assistant Professor of Hydrology – California State University, Chico (starting 2026 – )
+* Adjunct Professor of Hydrology – California State University, Chico (2025 – )
 * Postdoctoral Researcher - _UC Berkeley_ (2024 – )
 * Researcher - _UC Berkeley_ (2022 – 2024)
 * Graduate Student Researcher - _UC Berkeley_ (2019 – 2022)
