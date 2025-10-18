@@ -25,7 +25,7 @@ author_profile: true
 * Under review, a manuscript titled "Improving Predictions of Streamflow in Ungauged Basins: Application of Deep Learning Algorithms" to _Applied Water Science_.[10/09/2024]
 
 ### Education:
-* Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
+* Launched UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [01/21/2025]
 
 ### Conference:
 * Presented at the EGU conference in Vienna, Austria (04/27–05/02/2025).
