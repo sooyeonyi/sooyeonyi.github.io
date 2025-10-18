@@ -4,6 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+See education and academic appointments below.
 
 {% include base_path %}
 
