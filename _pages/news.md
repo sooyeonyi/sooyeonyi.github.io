@@ -9,7 +9,7 @@ author_profile: true
 
 ### Professional Update:
 * Invited to serve as Guest Editor for the Special Issue “Application of Hydrological Modeling in Water Resources Management,” *Water* (MDPI).  
-* Organized the conference session “Advancing Environmental Flow Management: Holistic Approaches for Sustaining Aquatic Ecosystems” at the Society for Freshwater Science Annual Meeting (Spokane, WA, May 2026).
+* Organizing the conference session “Advancing Environmental Flow Management: Holistic Approaches for Sustaining Aquatic Ecosystems” at the Society for Freshwater Science Annual Meeting (Spokane, WA, May 2026).
 
 ### Recent publication:
 * Published a journal article titeld “[Developing resilient reservoir system operations: A simulation approach incorporating rule curve](https://doi.org/10.1007/s11269-025-04280-w)” in _Water Resources Management_. [06/17/2025] 
