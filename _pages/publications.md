@@ -25,7 +25,7 @@ See selected publications below.
   12. Yang, L., Bai, X., Zheng Khanna, N., **Yi, S.**, Hu, Y., Deng, J., Gao, H., Tuo, L., Xiang, S., & Zhou, N. (2018). Water evaluation and planning (WEAP) model application for exploring the water deficit at catchment level in Beijing. _Desalination and Water Treatment_, 118, 12–25. [https://doi.org/10.5004/dwt.2018.22332](https://doi.org/10.5004/dwt.2018.22332)
 
 ### Journal Paper (Under Second Round of Review)
-  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_. [Accepted]
+  1.  Lee, S., Ji, J., **Yi, S.**, Lee, E., Yoon, J., Yi, J. Predicting streamflow in ungauged basins using deep learning algorithms. _Applied Water Science_. 
      
 ### Journal Paper (Under First Round of Review)
   1.	**Yi, S.**, Yoon, J., Lee, C., Lee, Lee, S., Ji, J., Lee, E., Yi, J. Advancing flow duration curve prediction in ungauged basins using machine learning and deep learning. _Journal of Hydrology: Regional Study_.
