@@ -25,9 +25,5 @@ The WISE Lab at the Department of Earth and Environmental Sciences (ERTH) in the
 - ERTH 104 — Introduction to Climate Change
 -->
 
-### Research Focus
-- **Focus:** Water–environment–society interactions—floods, droughts, climate adaptation.  
-- **Methods:** Physics-based models (WEAP, HEC-ResSim) + data-driven approaches (ML/DL).  
-
 ### Contact
 **Email:** [sooyeon@berkeley.edu](mailto:sooyeon@berkeley.edu) \| [syi4@csuchico.edu](mailto:syi4@csuchico.edu)
