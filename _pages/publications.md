@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- You can list highlights here or link to the auto-generated collection pages. -->
-See selected publications below. 
+See full publications below. 
 
 {% include base_path %}
 
