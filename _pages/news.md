@@ -9,7 +9,7 @@ Recent updates, announcements, and highlights from my research and professional 
 {% include base_path %}
 
 ### Professional Update:
-* Invited to serve as Guest Editor for the Special Issue “Application of Hydrological Modeling in Water Resources Management,” *Water* (MDPI).  
+* Invited to serve as Guest Editor for the Special Issue “[Advances in Hydrology and Water Resources Management for Sustainable Futures](https://www.mdpi.com/journal/water/special_issues/I1297I4770)" *Water* (MDPI), which is currently open for submissions and welcomes contributions.
 * Organizing the conference session “Advancing Environmental Flow Management: Holistic Approaches for Sustaining Aquatic Ecosystems” at the Society for Freshwater Science Annual Meeting (Spokane, WA, May 2026).
 
 ### Recent publication:
