@@ -13,8 +13,8 @@ Recent updates, announcements, and highlights from my research and professional 
 * Organizing the conference session “Advancing Environmental Flow Management: Holistic Approaches for Sustaining Aquatic Ecosystems” at the Society for Freshwater Science Annual Meeting (Spokane, WA, May 2026).
 
 ### Recent publication:
-* Accepted a journal article titled "[Assessing the Impact of Hydropower to Multipurpose Dam Reoperation on
-Downstream Hydrology and Water Quality]" in _water_. [11/04/2025]
+* Accepted a journal article titled "Assessing the Impact of Hydropower to Multipurpose Dam Reoperation on
+Downstream Hydrology and Water Quality" in _water_. [11/04/2025]
 * Published a journal article titeld “[Developing resilient reservoir system operations: A simulation approach incorporating rule curve](https://doi.org/10.1007/s11269-025-04280-w)” in _Water Resources Management_. [06/17/2025] 
 * Published a journal article titled "[Development of a Reservoir Operation Model for Determining Pre-Release Strategies During Flood Events](https://doi.org/10.2166/hydro.2025.262)" in _Journal of Hydroinformatics_. [03/17/2025]
 
