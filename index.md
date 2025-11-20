@@ -5,10 +5,6 @@ permalink: /
 robots: index, follow
 author_profile: true
 ---
-<!--
-<!-- paste the full content of your current _pages/about.md below this line -->
-![WISE Lab logo]({{ '/images/logo3.png' | relative_url }}){: .align-left style="max-width:252px; margin-right:12px; margin-bottom:6px;"}
--->
 
 **_Hydrology and Water Resources Management Lab_**
 
