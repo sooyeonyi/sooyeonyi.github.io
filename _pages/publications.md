@@ -11,7 +11,7 @@ See full publications below.
 {% include base_path %}
 
 ### Journal Paper (Published)
-  1. Yoon, **Yi, S.**, J., Ji, J., Lee, E., Lee, S., Yi, J. (2025) Assessing the impact of hydropower to multipurpose dam reoperation on downstream hydrology and water quality. _Water_. [Under Press]
+  1. Yoon, **Yi, S.**, J., Ji, J., Lee, E., Lee, S., Yi, J. (2025) Assessing the impact of hydropower to multipurpose dam reoperation on downstream hydrology and water quality. _Water_. [https://doi.org/10.3390/w17223191](https://doi.org/10.3390/w17223191)
   2. Lee, E.; Ji, J., **Yi, S.**, Lee, S., Yoon, J., Yi, J. (2025) Developing resilient reservoir system operations: A simulation approach incorporating rule curve. _Water Resources Mangement_. [https://doi.org/10.1007/s11269-025-04280-w](https://doi.org/10.1007/s11269-025-04280-w)
   3. Lee, E., **Yi, S.**, Ji, J., Hong, J., Lee, S., Yoon, J., Yi, J. (2025) Development of reservoir operation model determining the pre-release strategy for the flood events. _Journal of Hydroinformatics_. [http://doi.org/10.2166/hydro.2025.262](https://github.com/user-attachments/assets/83acc10d-ded3-4c7a-9be9-4c00a8ed3b84)
   4. **Yi, S.**, Kondolf, G.M. (2024). Environmental planning and the evolution of inter-basin water transfers in the United States. _Front. Environ. Sci_. 12:1489917. [https://doi.org/10.3389/fenvs.2024.1489917](https://doi.org/10.3389/fenvs.2024.1489917)    
